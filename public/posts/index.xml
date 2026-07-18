@@ -1,0 +1,42 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - The Amazing Bullshit</title>
+        <link>http://localhost:1314/posts/</link>
+        <description>All Posts | The Amazing Bullshit</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>erwinkarim. 2026</copyright><lastBuildDate>Sat, 18 Jul 2026 09:27:08 &#43;0800</lastBuildDate><atom:link href="http://localhost:1314/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>New York 2056</title>
+    <link>http://localhost:1314/03-new-york-2056/</link>
+    <pubDate>Sat, 18 Jul 2026 09:27:08 &#43;0800</pubDate>
+    <author>erwinkarim</author>
+    <guid>http://localhost:1314/03-new-york-2056/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/03-new-york-2056-cover.webp" referrerpolicy="no-referrer">
+            </div><p>The alarm didn’t sound; it just shifted the ambient light in Elena’s 300-square-foot Queens micro-apartment from a deep amber to the crisp, synthetic blue of a Manhattan sunrise. It was 6:15 AM on a crisp autumn Tuesday in 2056.</p>
+<p>Elena sat up, her joints protesting slightly. At thirty-four, she was part of the generation that grew up right on the hinge of the global shift.</p>
+<p>She walked over to her small kitchen console and pressed the dispenser. It hummed, synthesizing a hot cup of coffee blend—mostly roasted chicory and lab-grown coffee bean solids. Real South American coffee beans were an extreme luxury now, heavily tariffed by the Pan-Asian Trade Bloc, which controlled the primary shipping lanes across the Pacific.</p>]]></description>
+</item>
+<item>
+    <title>The Last Echo of Sector 7</title>
+    <link>http://localhost:1314/02-last-echo-of-sector-7/</link>
+    <pubDate>Fri, 17 Jul 2026 10:49:17 &#43;0800</pubDate>
+    <author>erwinkarim</author>
+    <guid>http://localhost:1314/02-last-echo-of-sector-7/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/02-last-echo-of-sector-7-hero.webp" referrerpolicy="no-referrer">
+            </div><h3 id="the-last-echo-of-sector-7">The Last Echo of Sector 7</h3>
+<p>The distress beacon had been repeating for three hundred years.</p>
+<p>In the lawless fringe of Sector 7, three-hundred-year-old signals usually meant one of two things: a hull full of degraded, useless scrap, or a lethal trap left behind by long-dead raiders. But Jax was down to his last half-liter of oxygen-scrubber fluid, and his ship, <em>The Rustbucket</em>, was practically running on hope and duct tape. He changed course.</p>]]></description>
+</item>
+<item>
+    <title>The Watchmaker&#39;s Secret</title>
+    <link>http://localhost:1314/01-the-watchmaker-secret/</link>
+    <pubDate>Thu, 16 Jul 2026 16:36:05 &#43;0800</pubDate>
+    <author>erwinkarim</author>
+    <guid>http://localhost:1314/01-the-watchmaker-secret/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/01-watchmaker-secret-cover.webp" referrerpolicy="no-referrer">
+            </div><p>The bell above the door chimed, but Elias didn’t look up. His world was entirely contained within the three-inch circle of a tarnished silver pocket watch.</p>
+<p>Elias was a horologist—a fixer of time. His shop in the narrow alleys of the city smelled of brass polish, aged wood, and the faint, metallic scent of clock oil. The watch currently on his workbench had been brought in earlier that morning by a young woman. &ldquo;It was my grandfather’s,&rdquo; she had said, tracing the engraved initials on the casing. &ldquo;It hasn’t ticked since he came back from the war. Fifty years.&rdquo;</p>]]></description>
+</item>
+</channel>
+</rss>
