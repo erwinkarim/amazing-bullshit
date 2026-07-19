@@ -1,4 +1,10 @@
-
++++
+date = '2026-07-19T09:19:08+08:00'
+draft = false
+title = 'Eight Tours, Endless wars'
+categories = ["sci-fi", "war journal"]
+tags = ["sci-fi", "drama]
++++
 
 The heat didn’t just sit on the skin; it hummed with the electric whine of the hardware that supposedly made them gods of the battlefield.
 
