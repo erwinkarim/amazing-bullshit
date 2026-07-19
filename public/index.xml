@@ -3,9 +3,20 @@
         <title>The Amazing Bullshit</title>
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>erwinkarim. 2026</copyright><lastBuildDate>Sat, 18 Jul 2026 09:27:08 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>erwinkarim. 2026</copyright><lastBuildDate>Sun, 19 Jul 2026 09:27:08 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>New battlefield, same war.</title>
+    <link>http://localhost:1314/04-eight-tours-endless-wars/</link>
+    <pubDate>Sun, 19 Jul 2026 09:27:08 &#43;0800</pubDate>
+    <author>erwinkarim</author>
+    <guid>http://localhost:1314/04-eight-tours-endless-wars/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/04-endless-war-cover.webp" referrerpolicy="no-referrer">
+            </div><p>The heat didn’t just sit on the skin; it hummed with the electric whine of the hardware that supposedly made them gods of the battlefield.</p>
+<p>Staff Sergeant Marcus Vance checked his <strong>Integrated Helmet System</strong>. A translucent overlay painted the landscape in shades of infrared and thermal data. To his left, a persistent green chevron tagged a squad member’s vitals: heart rate, hydration levels, ammunition count. Behind him, a micro-drone—no larger than a hummingbird—tethered to his shoulder, providing a 360-degree augmented reality view of the valley ahead. He didn&rsquo;t just see the terrain; he saw the digital ghost of every potential threat, calculated by predictive algorithms that had analyzed two decades of insurgent tactics.</p>]]></description>
+</item>
+<item>
     <title>New York 2056</title>
     <link>http://localhost:1314/03-new-york-2056/</link>
     <pubDate>Sat, 18 Jul 2026 09:27:08 &#43;0800</pubDate>

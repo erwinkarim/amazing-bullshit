@@ -1,11 +1,5 @@
-+++
-date = '2026-07-19T09:27:08+08:00'
-draft = false
-title = 'New battlefield, same war.'
-categories = ["sci-fi", "day in a life", "millitary"]
-tags = ["futurism"]
-featuredImage = "/img/posts/04-endless-war-cover.webp"
-+++
+# New battlefield, same war.
+
 
 The heat didn’t just sit on the skin; it hummed with the electric whine of the hardware that supposedly made them gods of the battlefield.
 
