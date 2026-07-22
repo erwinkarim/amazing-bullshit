@@ -62,6 +62,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     name = "Categories"
     url = "/categories/"
     title = ""
+  [[menu.main]]
+    weight = 4
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "About"
+    url = "/about/"
+    title = ""
 
 [params]
   # site default theme ["auto", "light", "dark"]
@@ -318,7 +326,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # LoveIt NEW | 0.2.0 Table of the contents config
     [params.page.toc]
       # whether to enable the table of the contents
-      enable = true
+      enable = false
       # LoveIt NEW | 0.2.9 whether to keep the static table of the contents in front of the post
       keepStatic = false
       # whether to make the table of the contents in the sidebar automatically collapsed

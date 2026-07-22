@@ -12,9 +12,51 @@
 			<copyright>erwinkarim. 2026</copyright>
 		
 		
-			<lastBuildDate>Sun, 19 Jul 2026 09:27:08 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 21 Jul 2026 11:31:57 +0800</lastBuildDate>
 		
 			<atom:link href="http://localhost:1314/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Down-Under</title>
+				<link>http://localhost:1314/tags/down-under/</link>
+				<pubDate>Tue, 21 Jul 2026 11:31:57 +0800</pubDate>
+				<guid>http://localhost:1314/tags/down-under/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Mystery</title>
+				<link>http://localhost:1314/tags/mystery/</link>
+				<pubDate>Tue, 21 Jul 2026 11:31:57 +0800</pubDate>
+				<guid>http://localhost:1314/tags/mystery/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Imagine</title>
+				<link>http://localhost:1314/tags/imagine/</link>
+				<pubDate>Tue, 21 Jul 2026 08:48:57 +0800</pubDate>
+				<guid>http://localhost:1314/tags/imagine/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>What-If</title>
+				<link>http://localhost:1314/tags/what-if/</link>
+				<pubDate>Tue, 21 Jul 2026 08:48:57 +0800</pubDate>
+				<guid>http://localhost:1314/tags/what-if/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sci-Fi</title>
+				<link>http://localhost:1314/tags/sci-fi/</link>
+				<pubDate>Sun, 19 Jul 2026 17:14:03 +0800</pubDate>
+				<guid>http://localhost:1314/tags/sci-fi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Simulation</title>
+				<link>http://localhost:1314/tags/simulation/</link>
+				<pubDate>Sun, 19 Jul 2026 17:14:03 +0800</pubDate>
+				<guid>http://localhost:1314/tags/simulation/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Futurism</title>
 				<link>http://localhost:1314/tags/futurism/</link>
@@ -27,13 +69,6 @@
 				<link>http://localhost:1314/tags/drama/</link>
 				<pubDate>Fri, 17 Jul 2026 10:49:17 +0800</pubDate>
 				<guid>http://localhost:1314/tags/drama/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Sci-Fi</title>
-				<link>http://localhost:1314/tags/sci-fi/</link>
-				<pubDate>Fri, 17 Jul 2026 10:49:17 +0800</pubDate>
-				<guid>http://localhost:1314/tags/sci-fi/</guid>
 				<description></description>
 			</item>
 	</channel>

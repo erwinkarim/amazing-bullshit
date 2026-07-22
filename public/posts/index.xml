@@ -3,7 +3,42 @@
         <title>All Posts - The Amazing Bullshit</title>
         <link>http://localhost:1314/posts/</link>
         <description>All Posts | The Amazing Bullshit</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>erwinkarim. 2026</copyright><lastBuildDate>Sun, 19 Jul 2026 09:27:08 &#43;0800</lastBuildDate><atom:link href="http://localhost:1314/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>erwinkarim. 2026</copyright><lastBuildDate>Tue, 21 Jul 2026 11:31:57 &#43;0800</lastBuildDate><atom:link href="http://localhost:1314/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>The Deep Earth Log</title>
+    <link>http://localhost:1314/07-deep-earth-log/</link>
+    <pubDate>Tue, 21 Jul 2026 11:31:57 &#43;0800</pubDate>
+    <author>erwinkarim</author>
+    <guid>http://localhost:1314/07-deep-earth-log/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/07-deep-earth-log-cover.webp" referrerpolicy="no-referrer">
+            </div><p>Dr. Marcus Vance stared at the waveform on his monitor. For six months, the <strong>Borehole-4 acoustic logs</strong> had yielded nothing more than the low, monotonous groan of shifting tectonic plates two miles beneath the Siberian permafrost. It was tedious work, funded by a geological grant that was rapidly running out of patience.</p>
+<p>It was 3:00 AM. Running on three hours of sleep and far too much espresso, Marcus applied a new experimental neural-net audio filter—a reckless tweak in noise cancellation meant to strip away ambient rock resonance.</p>]]></description>
+</item>
+<item>
+    <title>The First Thought</title>
+    <link>http://localhost:1314/06-the-first-thought/</link>
+    <pubDate>Tue, 21 Jul 2026 08:48:57 &#43;0800</pubDate>
+    <author>erwinkarim</author>
+    <guid>http://localhost:1314/06-the-first-thought/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/06-first-thought.webp" referrerpolicy="no-referrer">
+            </div><p>The canopy of the ancient rainforest was a chaotic orchestra of instinct.</p>
+<p>For seven years, Barnaby had been a three-toed sloth, existing entirely in the rhythm of the urge. Hungry? Eat a cecropia leaf. Tired? Sleep, hooked by his claws to a high branch. Threat? Hold impossibly still and blend into the moss. He did not think; he was simply <em>acted upon</em> by the chemical wiring of his brain.</p>
+<p>Then came the thunderstorm.</p>]]></description>
+</item>
+<item>
+    <title>Sol-Quarium</title>
+    <link>http://localhost:1314/05-sol-quarium/</link>
+    <pubDate>Sun, 19 Jul 2026 17:14:03 &#43;0800</pubDate>
+    <author>erwinkarim</author>
+    <guid>http://localhost:1314/05-sol-quarium/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/05-sol-quarium.webp" referrerpolicy="no-referrer">
+            </div><p>The interface glowed with the soft, bioluminescent hum of a thousand stellar variables. With a gentle swipe of a three-jointed finger, the user nudged the slider. <em>Atmospheric Hydrogen: +0.1%.</em></p>
+<p>It wasn&rsquo;t a game of direct control. You didn&rsquo;t build cities or command armies; you simply whispered to the universe and watched the ripples.</p>
+<p>A few millennia ago, a beautifully chaotic fluke had thrown the whole project off script. An errant cosmic ray—completely unprompted by the system—had sliced clean through the DNA of a bipedal primate. The resulting mutation made the creature absurdly, hypnotically charismatic. He started a major global religion, completely reshaping the geopolitical landscape of Orbit Three before his brief lifespan ended.</p>]]></description>
+</item>
+<item>
     <title>New battlefield, same war.</title>
     <link>http://localhost:1314/04-eight-tours-endless-wars/</link>
     <pubDate>Sun, 19 Jul 2026 09:27:08 &#43;0800</pubDate>

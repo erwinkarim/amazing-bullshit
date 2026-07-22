@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Down-Under - Tag - The Amazing Bullshit</title>
+        <link>http://localhost:1314/tags/down-under/</link>
+        <description>Down-Under - Tag - The Amazing Bullshit</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>erwinkarim. 2026</copyright><lastBuildDate>Tue, 21 Jul 2026 11:31:57 &#43;0800</lastBuildDate><atom:link href="http://localhost:1314/tags/down-under/" rel="self" type="application/rss+xml" /><item>
+    <title>The Deep Earth Log</title>
+    <link>http://localhost:1314/07-deep-earth-log/</link>
+    <pubDate>Tue, 21 Jul 2026 11:31:57 &#43;0800</pubDate>
+    <author>erwinkarim</author>
+    <guid>http://localhost:1314/07-deep-earth-log/</guid>
+    <description><![CDATA[<p>Dr. Marcus Vance stared at the waveform on his monitor. For six months, the <strong>Borehole-4 acoustic logs</strong> had yielded nothing more than the low, monotonous groan of shifting tectonic plates two miles beneath the Siberian permafrost. It was tedious work, funded by a geological grant that was rapidly running out of patience.</p>
+<p>It was 3:00 AM. Running on three hours of sleep and far too much espresso, Marcus applied a new experimental neural-net audio filter—a reckless tweak in noise cancellation meant to strip away ambient rock resonance.</p>]]></description>
+</item>
+</channel>
+</rss>
