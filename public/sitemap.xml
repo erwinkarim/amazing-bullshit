@@ -2,21 +2,23 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>http://localhost:1314/tags/hologram/</loc><lastmod>2026-07-22T21:02:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1314/posts/</loc><lastmod>2026-07-22T21:02:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1314/tags/sci-fi/</loc><lastmod>2026-07-22T21:02:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1314/tags/</loc><lastmod>2026-07-22T21:02:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1314/</loc><lastmod>2026-07-22T21:02:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1314/08-math-lesson/</loc><lastmod>2026-07-22T21:02:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1314/about/</loc><lastmod>2026-07-21T12:29:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1314/</loc><lastmod>2026-07-21T12:29:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1314/categories/</loc><lastmod>2026-07-21T11:31:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1314/tags/down-under/</loc><lastmod>2026-07-21T11:31:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1314/categories/mystery/</loc><lastmod>2026-07-21T11:31:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1314/tags/mystery/</loc><lastmod>2026-07-21T11:31:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1314/posts/</loc><lastmod>2026-07-21T11:31:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1314/tags/</loc><lastmod>2026-07-21T11:31:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1314/07-deep-earth-log/</loc><lastmod>2026-07-21T11:31:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1314/tags/imagine/</loc><lastmod>2026-07-21T08:48:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1314/06-the-first-thought/</loc><lastmod>2026-07-21T08:48:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1314/categories/what-if/</loc><lastmod>2026-07-21T08:48:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1314/tags/what-if/</loc><lastmod>2026-07-21T08:48:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1314/categories/sci-fi/</loc><lastmod>2026-07-19T17:14:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1314/tags/sci-fi/</loc><lastmod>2026-07-19T17:14:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1314/tags/simulation/</loc><lastmod>2026-07-19T17:14:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1314/05-sol-quarium/</loc><lastmod>2026-07-19T17:14:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1314/categories/day-in-a-life/</loc><lastmod>2026-07-19T09:27:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
