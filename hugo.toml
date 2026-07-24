@@ -90,9 +90,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # Author config
   [params.author]
-    name = "erwinkarim"
-    email = ""
-    link = ""
+    name = "techjourneyman"
+    email = "techjourneyman@gmail.com"
+    link = "https://techjourneyman.com"
 
   # Header config
   [params.header]

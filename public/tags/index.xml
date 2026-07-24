@@ -7,74 +7,85 @@
 		<generator>Hugo</generator>
 		<language>en</language>
 		
+			<managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
+		
+		
+			<webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster>
 		
 		
 			<copyright>erwinkarim. 2026</copyright>
 		
 		
-			<lastBuildDate>Wed, 22 Jul 2026 21:02:07 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 23 Jul 2026 17:58:59 +0800</lastBuildDate>
 		
 			<atom:link href="http://localhost:1314/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Mystery</title>
+				<link>http://localhost:1314/tags/mystery/</link>
+				<pubDate>Thu, 23 Jul 2026 17:58:59 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/mystery/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>World Control</title>
+				<link>http://localhost:1314/tags/world-control/</link>
+				<pubDate>Thu, 23 Jul 2026 17:58:59 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/world-control/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Hologram</title>
 				<link>http://localhost:1314/tags/hologram/</link>
-				<pubDate>Wed, 22 Jul 2026 21:02:07 +0800</pubDate>
+				<pubDate>Wed, 22 Jul 2026 21:02:07 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/hologram/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Sci-Fi</title>
 				<link>http://localhost:1314/tags/sci-fi/</link>
-				<pubDate>Wed, 22 Jul 2026 21:02:07 +0800</pubDate>
+				<pubDate>Wed, 22 Jul 2026 21:02:07 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/sci-fi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Down-Under</title>
 				<link>http://localhost:1314/tags/down-under/</link>
-				<pubDate>Tue, 21 Jul 2026 11:31:57 +0800</pubDate>
+				<pubDate>Tue, 21 Jul 2026 11:31:57 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/down-under/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Mystery</title>
-				<link>http://localhost:1314/tags/mystery/</link>
-				<pubDate>Tue, 21 Jul 2026 11:31:57 +0800</pubDate>
-				<guid>http://localhost:1314/tags/mystery/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Imagine</title>
 				<link>http://localhost:1314/tags/imagine/</link>
-				<pubDate>Tue, 21 Jul 2026 08:48:57 +0800</pubDate>
+				<pubDate>Tue, 21 Jul 2026 08:48:57 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/imagine/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>What-If</title>
 				<link>http://localhost:1314/tags/what-if/</link>
-				<pubDate>Tue, 21 Jul 2026 08:48:57 +0800</pubDate>
+				<pubDate>Tue, 21 Jul 2026 08:48:57 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/what-if/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Simulation</title>
 				<link>http://localhost:1314/tags/simulation/</link>
-				<pubDate>Sun, 19 Jul 2026 17:14:03 +0800</pubDate>
+				<pubDate>Sun, 19 Jul 2026 17:14:03 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/simulation/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Futurism</title>
 				<link>http://localhost:1314/tags/futurism/</link>
-				<pubDate>Sun, 19 Jul 2026 09:27:08 +0800</pubDate>
+				<pubDate>Sun, 19 Jul 2026 09:27:08 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/futurism/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Drama</title>
 				<link>http://localhost:1314/tags/drama/</link>
-				<pubDate>Fri, 17 Jul 2026 10:49:17 +0800</pubDate>
+				<pubDate>Fri, 17 Jul 2026 10:49:17 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/drama/</guid>
 				<description></description>
 			</item>

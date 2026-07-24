@@ -7,6 +7,10 @@
 		<generator>Hugo</generator>
 		<language>en</language>
 		
+			<managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
+		
+		
+			<webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster>
 		
 		
 			<copyright>erwinkarim. 2026</copyright>
@@ -18,42 +22,42 @@
 			<item>
 				<title>Mystery</title>
 				<link>http://localhost:1314/categories/mystery/</link>
-				<pubDate>Tue, 21 Jul 2026 11:31:57 +0800</pubDate>
+				<pubDate>Tue, 21 Jul 2026 11:31:57 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/categories/mystery/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>What If</title>
 				<link>http://localhost:1314/categories/what-if/</link>
-				<pubDate>Tue, 21 Jul 2026 08:48:57 +0800</pubDate>
+				<pubDate>Tue, 21 Jul 2026 08:48:57 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/categories/what-if/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Sci-Fi</title>
 				<link>http://localhost:1314/categories/sci-fi/</link>
-				<pubDate>Sun, 19 Jul 2026 17:14:03 +0800</pubDate>
+				<pubDate>Sun, 19 Jul 2026 17:14:03 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/categories/sci-fi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Day in a Life</title>
 				<link>http://localhost:1314/categories/day-in-a-life/</link>
-				<pubDate>Sun, 19 Jul 2026 09:27:08 +0800</pubDate>
+				<pubDate>Sun, 19 Jul 2026 09:27:08 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/categories/day-in-a-life/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Millitary</title>
 				<link>http://localhost:1314/categories/millitary/</link>
-				<pubDate>Sun, 19 Jul 2026 09:27:08 +0800</pubDate>
+				<pubDate>Sun, 19 Jul 2026 09:27:08 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/categories/millitary/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Drama</title>
 				<link>http://localhost:1314/categories/drama/</link>
-				<pubDate>Thu, 16 Jul 2026 16:36:05 +0800</pubDate>
+				<pubDate>Thu, 16 Jul 2026 16:36:05 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/categories/drama/</guid>
 				<description></description>
 			</item>

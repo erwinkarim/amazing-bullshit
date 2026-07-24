@@ -3,13 +3,26 @@
         <title>The Amazing Bullshit</title>
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>erwinkarim. 2026</copyright><lastBuildDate>Wed, 22 Jul 2026 21:02:07 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Thu, 23 Jul 2026 17:58:59 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>The Console</title>
+    <link>http://localhost:1314/09-the-console/</link>
+    <pubDate>Thu, 23 Jul 2026 17:58:59 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/09-the-console/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/09-the-console-cover.webp" referrerpolicy="no-referrer">
+            </div><p>The neon glow of Tokyo’s Shinjuku station always made Kenji feel invisible—just another dark suit drifting through the damp late-night air. It was 11:14 PM. His shoulders were locked in their usual post-overtime tension, and his commute home felt, as always, like an exercise in sheer survival.</p>
+<p>Then he saw it.</p>
+<p>Resting on a bench near the quiet end of Platform 4 was a ordinary, plain black hardcover notebook. It had no title, no leather trim, no dramatic metallic clasps—just a basic, mass-manufactured journal someone must have dropped.</p>]]></description>
+</item>
+<item>
     <title>The Math Lesson</title>
     <link>http://localhost:1314/08-math-lesson/</link>
     <pubDate>Wed, 22 Jul 2026 21:02:07 &#43;0800</pubDate>
-    <author>erwinkarim</author>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
     <guid>http://localhost:1314/08-math-lesson/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/posts/08-math-homework-cover.webp" referrerpolicy="no-referrer">
@@ -21,7 +34,7 @@
     <title>The Deep Earth Log</title>
     <link>http://localhost:1314/07-deep-earth-log/</link>
     <pubDate>Tue, 21 Jul 2026 11:31:57 &#43;0800</pubDate>
-    <author>erwinkarim</author>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
     <guid>http://localhost:1314/07-deep-earth-log/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/posts/07-deep-earth-log-cover.webp" referrerpolicy="no-referrer">
@@ -32,7 +45,7 @@
     <title>The First Thought</title>
     <link>http://localhost:1314/06-the-first-thought/</link>
     <pubDate>Tue, 21 Jul 2026 08:48:57 &#43;0800</pubDate>
-    <author>erwinkarim</author>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
     <guid>http://localhost:1314/06-the-first-thought/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/posts/06-first-thought.webp" referrerpolicy="no-referrer">
@@ -44,7 +57,7 @@
     <title>Sol-Quarium</title>
     <link>http://localhost:1314/05-sol-quarium/</link>
     <pubDate>Sun, 19 Jul 2026 17:14:03 &#43;0800</pubDate>
-    <author>erwinkarim</author>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
     <guid>http://localhost:1314/05-sol-quarium/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/posts/05-sol-quarium.webp" referrerpolicy="no-referrer">
@@ -56,7 +69,7 @@
     <title>New battlefield, same war.</title>
     <link>http://localhost:1314/04-eight-tours-endless-wars/</link>
     <pubDate>Sun, 19 Jul 2026 09:27:08 &#43;0800</pubDate>
-    <author>erwinkarim</author>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
     <guid>http://localhost:1314/04-eight-tours-endless-wars/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/posts/04-endless-war-cover.webp" referrerpolicy="no-referrer">
@@ -67,7 +80,7 @@
     <title>New York 2056</title>
     <link>http://localhost:1314/03-new-york-2056/</link>
     <pubDate>Sat, 18 Jul 2026 09:27:08 &#43;0800</pubDate>
-    <author>erwinkarim</author>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
     <guid>http://localhost:1314/03-new-york-2056/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/posts/03-new-york-2056-cover.webp" referrerpolicy="no-referrer">
@@ -79,7 +92,7 @@
     <title>The Last Echo of Sector 7</title>
     <link>http://localhost:1314/02-last-echo-of-sector-7/</link>
     <pubDate>Fri, 17 Jul 2026 10:49:17 &#43;0800</pubDate>
-    <author>erwinkarim</author>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
     <guid>http://localhost:1314/02-last-echo-of-sector-7/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/posts/02-last-echo-of-sector-7-hero.webp" referrerpolicy="no-referrer">
@@ -91,7 +104,7 @@
     <title>The Watchmaker&#39;s Secret</title>
     <link>http://localhost:1314/01-the-watchmaker-secret/</link>
     <pubDate>Thu, 16 Jul 2026 16:36:05 &#43;0800</pubDate>
-    <author>erwinkarim</author>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
     <guid>http://localhost:1314/01-the-watchmaker-secret/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/posts/01-watchmaker-secret-cover.webp" referrerpolicy="no-referrer">
