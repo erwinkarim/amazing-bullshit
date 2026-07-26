@@ -10,7 +10,9 @@
     <pubDate>Sat, 25 Jul 2026 09:58:25 &#43;0800</pubDate>
     <author>techjourneyman@gmail.com (techjourneyman)</author>
     <guid>http://localhost:1314/10-30-second-polaroid/</guid>
-    <description><![CDATA[<h2 id="the-30-second-polaroid">The 30-Second Polaroid</h2>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/10-30-second-polaroid-cover.webp" referrerpolicy="no-referrer">
+            </div><h2 id="the-30-second-polaroid">The 30-Second Polaroid</h2>
 <p>Arthur bought the vintage Polaroid camera from a dusty estate sale for fifteen bucks. The seller—a twitchy old woman who smelled faintly of copper—insisted it was &ldquo;already loaded&rdquo; and refused to take a penny more.</p>
 <p>When Arthur got back to his apartment, he aimed it at his kitchen island and pressed the shutter. The camera whirred, spitting out a blank square of film. As the colors slowly bloomed, Arthur frowned. In the photo, a red ceramic mug sat shattered on the tile floor.</p>]]></description>
 </item>

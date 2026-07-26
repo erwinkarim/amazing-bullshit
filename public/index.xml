@@ -4,9 +4,20 @@
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Sat, 25 Jul 2026 09:58:25 &#43;0800</lastBuildDate>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Sat, 25 Jul 2026 13:26:43 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>The Red Eagle of Leipzig</title>
+    <link>http://localhost:1314/11-red-eagle-of-leipzig/</link>
+    <pubDate>Sat, 25 Jul 2026 13:26:43 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/11-red-eagle-of-leipzig/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/11-red-eagle-of-leipzig-cover.webp" referrerpolicy="no-referrer">
+            </div><h2 id="the-red-eagle-of-leipzig">The Red Eagle of Leipzig</h2>
+<p>Kofi adjusted the lapels of his nylon parka as the 7:15 AM high-speed maglev train glided quietly into Leipzig’s Central Terminal. It was October 1992. Sixty years after the National Socialist Workers&rsquo; Party consolidated power and nationalized the nation’s industries, Germany had transformed into an economic titan. By taking back its pre-war territories without triggering a global conflict, the State had spent decades refining its ideology—merging strict state-led socialism with controlled capitalist enterprise.</p>]]></description>
+</item>
+<item>
     <title>The 30 Second Polaroid</title>
     <link>http://localhost:1314/10-30-second-polaroid/</link>
     <pubDate>Sat, 25 Jul 2026 09:58:25 &#43;0800</pubDate>
@@ -111,17 +122,6 @@
             </div><h3 id="the-last-echo-of-sector-7">The Last Echo of Sector 7</h3>
 <p>The distress beacon had been repeating for three hundred years.</p>
 <p>In the lawless fringe of Sector 7, three-hundred-year-old signals usually meant one of two things: a hull full of degraded, useless scrap, or a lethal trap left behind by long-dead raiders. But Jax was down to his last half-liter of oxygen-scrubber fluid, and his ship, <em>The Rustbucket</em>, was practically running on hope and duct tape. He changed course.</p>]]></description>
-</item>
-<item>
-    <title>The Watchmaker&#39;s Secret</title>
-    <link>http://localhost:1314/01-the-watchmaker-secret/</link>
-    <pubDate>Thu, 16 Jul 2026 16:36:05 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/01-the-watchmaker-secret/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/01-watchmaker-secret-cover.webp" referrerpolicy="no-referrer">
-            </div><p>The bell above the door chimed, but Elias didn’t look up. His world was entirely contained within the three-inch circle of a tarnished silver pocket watch.</p>
-<p>Elias was a horologist—a fixer of time. His shop in the narrow alleys of the city smelled of brass polish, aged wood, and the faint, metallic scent of clock oil. The watch currently on his workbench had been brought in earlier that morning by a young woman. &ldquo;It was my grandfather’s,&rdquo; she had said, tracing the engraved initials on the casing. &ldquo;It hasn’t ticked since he came back from the war. Fifty years.&rdquo;</p>]]></description>
 </item>
 </channel>
 </rss>
