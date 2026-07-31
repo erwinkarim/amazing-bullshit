@@ -16,21 +16,35 @@
 			<copyright>erwinkarim. 2026</copyright>
 		
 		
-			<lastBuildDate>Tue, 28 Jul 2026 10:38:07 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 31 Jul 2026 11:42:21 +0800</lastBuildDate>
 		
 			<atom:link href="http://localhost:1314/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Time Loop</title>
-				<link>http://localhost:1314/tags/time-loop/</link>
-				<pubDate>Tue, 28 Jul 2026 10:38:07 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/tags/time-loop/</guid>
+				<title>Comedy</title>
+				<link>http://localhost:1314/tags/comedy/</link>
+				<pubDate>Fri, 31 Jul 2026 11:42:21 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/comedy/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Unexpected</title>
+				<link>http://localhost:1314/tags/unexpected/</link>
+				<pubDate>Fri, 31 Jul 2026 11:42:21 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/unexpected/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Alternate Reality</title>
 				<link>http://localhost:1314/tags/alternate-reality/</link>
-				<pubDate>Sun, 26 Jul 2026 21:54:12 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<pubDate>Tue, 28 Jul 2026 17:46:45 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/alternate-reality/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Time Loop</title>
+				<link>http://localhost:1314/tags/time-loop/</link>
+				<pubDate>Tue, 28 Jul 2026 10:38:07 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/time-loop/</guid>
 				<description></description>
 			</item>
 			<item>
