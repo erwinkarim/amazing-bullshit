@@ -16,9 +16,37 @@
 			<copyright>erwinkarim. 2026</copyright>
 		
 		
-			<lastBuildDate>Fri, 31 Jul 2026 11:42:21 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 02 Aug 2026 10:33:09 +0800</lastBuildDate>
 		
 			<atom:link href="http://localhost:1314/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Temporal Displacement</title>
+				<link>http://localhost:1314/tags/temporal-displacement/</link>
+				<pubDate>Sun, 02 Aug 2026 10:33:09 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/temporal-displacement/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Time Travel</title>
+				<link>http://localhost:1314/tags/time-travel/</link>
+				<pubDate>Sun, 02 Aug 2026 10:33:09 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/time-travel/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Temporal</title>
+				<link>http://localhost:1314/tags/temporal/</link>
+				<pubDate>Sun, 02 Aug 2026 09:24:22 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/temporal/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>What-If</title>
+				<link>http://localhost:1314/tags/what-if/</link>
+				<pubDate>Sun, 02 Aug 2026 09:24:22 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/what-if/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Comedy</title>
 				<link>http://localhost:1314/tags/comedy/</link>
@@ -52,13 +80,6 @@
 				<link>http://localhost:1314/tags/americana/</link>
 				<pubDate>Sun, 26 Jul 2026 21:54:12 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/americana/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>What-If</title>
-				<link>http://localhost:1314/tags/what-if/</link>
-				<pubDate>Sun, 26 Jul 2026 21:54:12 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/tags/what-if/</guid>
 				<description></description>
 			</item>
 			<item>

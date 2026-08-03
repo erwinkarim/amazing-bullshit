@@ -3,6 +3,8 @@ date = '2026-08-02T09:24:22+08:00'
 draft = false
 title = 'Sailing Into Tokyo Bay'
 featuredImage = "/img/posts/16-sailing-into-tokyo-cover.webp"
+tags = ["temporal", "time travel", "what if"]
+categories = ["time travel"]
 +++
 
 The air in the brig was thick with the stench of bilge, damp oak, and my own sweat. Heavy iron shackles bit into my wrists as the Portuguese caravel pitched gently on the swell. Above, the muffled thud of sailors' boots rattled the ceiling beams, but inside my dark timber cell, I had only my fury—and Senhor Silva’s insufferable smirk—to keep me company.
