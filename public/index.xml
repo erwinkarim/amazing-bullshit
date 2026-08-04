@@ -4,9 +4,22 @@
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Sun, 02 Aug 2026 10:33:09 &#43;0800</lastBuildDate>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Tue, 04 Aug 2026 09:11:54 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Dial-up Wikipedia</title>
+    <link>http://localhost:1314/18-dialup-wikipedia/</link>
+    <pubDate>Tue, 04 Aug 2026 09:11:54 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/18-dialup-wikipedia/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/18-dial-up-wikipedia-cover.webp" referrerpolicy="no-referrer">
+            </div><p>The air in the bedroom smelled like warm ozone and plastic. It was the autumn of 1993, and glowing on the desk was a heavy, beige CRT monitor—a window into something the older kids at school spoke about in hushed, reverent tones: <em>The Information Superhighway.</em></p>
+<p>Leo took a deep breath and clicked the icon for the terminal software.</p>
+<p>Then came the ritual.</p>
+<p>The external 14.4k modem on the desk sprang to life with a loud relay <em>click</em>. First came the familiar, hollow dial tone, echoing through the small speaker. Then, the rhythmic, frantic tone-dialing—<em>beep-boop-beep-boop</em>. A long pause.</p>]]></description>
+</item>
+<item>
     <title>Temporal Displacement</title>
     <link>http://localhost:1314/17-temporal-displacement/</link>
     <pubDate>Sun, 02 Aug 2026 10:33:09 &#43;0800</pubDate>
@@ -110,18 +123,6 @@
             </div><p>The neon glow of Tokyo’s Shinjuku station always made Kenji feel invisible—just another dark suit drifting through the damp late-night air. It was 11:14 PM. His shoulders were locked in their usual post-overtime tension, and his commute home felt, as always, like an exercise in sheer survival.</p>
 <p>Then he saw it.</p>
 <p>Resting on a bench near the quiet end of Platform 4 was a ordinary, plain black hardcover notebook. It had no title, no leather trim, no dramatic metallic clasps—just a basic, mass-manufactured journal someone must have dropped.</p>]]></description>
-</item>
-<item>
-    <title>The Math Lesson</title>
-    <link>http://localhost:1314/08-math-lesson/</link>
-    <pubDate>Wed, 22 Jul 2026 21:02:07 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/08-math-lesson/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/08-math-homework-cover.webp" referrerpolicy="no-referrer">
-            </div><p>The dining room table was littered with crumpled papers, a half-empty mug of lukewarm coffee, and a third-grade math worksheet that might as well have been written in ancient hieroglyphics.</p>
-<p>Leo stared at the problem for what felt like the hundredth time: <em>If a train leaves Station A at 4:00 PM traveling at 45 miles per hour…</em></p>
-<p>&ldquo;I don&rsquo;t get it,&rdquo; Leo muttered, dropping his pencil with a dull clatter. &ldquo;It doesn&rsquo;t make any sense, Dad.&rdquo;</p>]]></description>
 </item>
 </channel>
 </rss>
