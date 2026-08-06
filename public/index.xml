@@ -4,9 +4,20 @@
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Wed, 05 Aug 2026 10:03:07 &#43;0800</lastBuildDate>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Thu, 06 Aug 2026 10:40:01 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>The Golden Cage</title>
+    <link>http://localhost:1314/20-the-golden-cage/</link>
+    <pubDate>Thu, 06 Aug 2026 10:40:01 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/20-the-golden-cage/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/20-golden-cage-cover.webp" referrerpolicy="no-referrer">
+            </div><p>The morning alarm in the Grand Palace of Aurelia was not a rude chime, but a live harpist performing softly from behind a silk screen.</p>
+<p>Prince Kael opened his eyes beneath a grand canopy woven from pure silver thread. Within seconds of his eyelids fluttering, a choreographed army of attendants glided into the chamber. One offered a warm linen towel infused with rare orchid essence; another held a tray bearing an espresso dusted with edible 24-karat gold; a third knelt quietly, presenting a velvet tray of five custom diamond cufflinks.</p>]]></description>
+</item>
+<item>
     <title>The Manhole Cover</title>
     <link>http://localhost:1314/19-the-manhole-cover/</link>
     <pubDate>Wed, 05 Aug 2026 10:03:07 &#43;0800</pubDate>
@@ -110,18 +121,6 @@
                 <img src="/img/posts/11-red-eagle-of-leipzig-cover.webp" referrerpolicy="no-referrer">
             </div><h2 id="the-red-eagle-of-leipzig">The Red Eagle of Leipzig</h2>
 <p>Kofi adjusted the lapels of his nylon parka as the 7:15 AM high-speed maglev train glided quietly into Leipzig’s Central Terminal. It was October 1992. Sixty years after the National Socialist Workers&rsquo; Party consolidated power and nationalized the nation’s industries, Germany had transformed into an economic titan. By taking back its pre-war territories without triggering a global conflict, the State had spent decades refining its ideology—merging strict state-led socialism with controlled capitalist enterprise.</p>]]></description>
-</item>
-<item>
-    <title>The 30 Second Polaroid</title>
-    <link>http://localhost:1314/10-30-second-polaroid/</link>
-    <pubDate>Sat, 25 Jul 2026 09:58:25 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/10-30-second-polaroid/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/10-30-second-polaroid-cover.webp" referrerpolicy="no-referrer">
-            </div><h2 id="the-30-second-polaroid">The 30-Second Polaroid</h2>
-<p>Arthur bought the vintage Polaroid camera from a dusty estate sale for fifteen bucks. The seller—a twitchy old woman who smelled faintly of copper—insisted it was &ldquo;already loaded&rdquo; and refused to take a penny more.</p>
-<p>When Arthur got back to his apartment, he aimed it at his kitchen island and pressed the shutter. The camera whirred, spitting out a blank square of film. As the colors slowly bloomed, Arthur frowned. In the photo, a red ceramic mug sat shattered on the tile floor.</p>]]></description>
 </item>
 </channel>
 </rss>
