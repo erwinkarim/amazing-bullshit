@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on The Amazing Bullshit</title>
+		<link>http://localhost:1314/post/</link>
+		<description>Recent content in Posts on The Amazing Bullshit</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+			<managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
+		
+		
+			<webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster>
+		
+		
+			<copyright>erwinkarim. 2026</copyright>
+		
+		
+			<atom:link href="http://localhost:1314/post/index.xml" rel="self" type="application/rss+xml" />
+	</channel>
+</rss>

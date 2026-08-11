@@ -16,9 +16,79 @@
 			<copyright>erwinkarim. 2026</copyright>
 		
 		
-			<lastBuildDate>Sun, 02 Aug 2026 10:33:09 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 10 Aug 2026 18:38:21 +0800</lastBuildDate>
 		
 			<atom:link href="http://localhost:1314/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Alternate History</title>
+				<link>http://localhost:1314/tags/alternate-history/</link>
+				<pubDate>Mon, 10 Aug 2026 18:38:21 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/alternate-history/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>What If</title>
+				<link>http://localhost:1314/tags/what-if/</link>
+				<pubDate>Mon, 10 Aug 2026 18:38:21 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/what-if/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Double Thief</title>
+				<link>http://localhost:1314/tags/double-thief/</link>
+				<pubDate>Sat, 08 Aug 2026 08:30:30 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/double-thief/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Misdirection</title>
+				<link>http://localhost:1314/tags/misdirection/</link>
+				<pubDate>Sat, 08 Aug 2026 08:30:30 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/misdirection/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Thief</title>
+				<link>http://localhost:1314/tags/thief/</link>
+				<pubDate>Sat, 08 Aug 2026 08:30:30 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/thief/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cautionary Tale</title>
+				<link>http://localhost:1314/tags/cautionary-tale/</link>
+				<pubDate>Thu, 06 Aug 2026 10:40:01 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/cautionary-tale/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Golden Cage</title>
+				<link>http://localhost:1314/tags/golden-cage/</link>
+				<pubDate>Thu, 06 Aug 2026 10:40:01 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/golden-cage/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>First Contact</title>
+				<link>http://localhost:1314/tags/first-contact/</link>
+				<pubDate>Wed, 05 Aug 2026 10:03:07 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/first-contact/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sci-Fi</title>
+				<link>http://localhost:1314/tags/sci-fi/</link>
+				<pubDate>Wed, 05 Aug 2026 10:03:07 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/sci-fi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Time Travel</title>
+				<link>http://localhost:1314/tags/time-travel/</link>
+				<pubDate>Tue, 04 Aug 2026 09:11:54 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/time-travel/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Temporal Displacement</title>
 				<link>http://localhost:1314/tags/temporal-displacement/</link>
@@ -27,24 +97,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Time Travel</title>
-				<link>http://localhost:1314/tags/time-travel/</link>
-				<pubDate>Sun, 02 Aug 2026 10:33:09 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/tags/time-travel/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Temporal</title>
 				<link>http://localhost:1314/tags/temporal/</link>
 				<pubDate>Sun, 02 Aug 2026 09:24:22 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/temporal/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>What-If</title>
-				<link>http://localhost:1314/tags/what-if/</link>
-				<pubDate>Sun, 02 Aug 2026 09:24:22 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/tags/what-if/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -122,13 +178,6 @@
 				<link>http://localhost:1314/tags/hologram/</link>
 				<pubDate>Wed, 22 Jul 2026 21:02:07 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/hologram/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Sci-Fi</title>
-				<link>http://localhost:1314/tags/sci-fi/</link>
-				<pubDate>Wed, 22 Jul 2026 21:02:07 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/tags/sci-fi/</guid>
 				<description></description>
 			</item>
 			<item>
