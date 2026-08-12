@@ -2,13 +2,20 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1314/posts/</loc><lastmod>2026-08-11T14:27:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1314/</loc><lastmod>2026-08-11T14:27:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1314/tags/historical-fiction/</loc><lastmod>2026-08-12T12:25:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1314/posts/</loc><lastmod>2026-08-12T12:25:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1314/tags/</loc><lastmod>2026-08-12T12:25:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1314/</loc><lastmod>2026-08-12T12:25:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1314/24-echo-at-tell-es-sultan/</loc><lastmod>2026-08-12T12:25:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1314/categories/</loc><lastmod>2026-08-11T14:27:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1314/tags/nukes/</loc><lastmod>2026-08-11T14:27:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1314/categories/sci-fi/</loc><lastmod>2026-08-11T14:27:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1314/tags/terms-of-surrender/</loc><lastmod>2026-08-11T14:27:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1314/23-depth-of-terms/</loc><lastmod>2026-08-11T14:27:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1314/categories/war/</loc><lastmod>2026-08-11T14:27:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1314/tags/war/</loc><lastmod>2026-08-11T14:27:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1314/tags/alternate-history/</loc><lastmod>2026-08-10T18:38:21&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1314/categories/</loc><lastmod>2026-08-10T18:38:21&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1314/22-krater-field-vienna-1943/</loc><lastmod>2026-08-10T18:38:21&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1314/tags/</loc><lastmod>2026-08-10T18:38:21&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1314/categories/what-if/</loc><lastmod>2026-08-10T18:38:21&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1314/tags/what-if/</loc><lastmod>2026-08-10T18:38:21&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1314/categories/day-in-a-life/</loc><lastmod>2026-08-08T08:30:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
@@ -20,10 +27,9 @@
             <loc>http://localhost:1314/tags/cautionary-tale/</loc><lastmod>2026-08-06T10:40:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1314/tags/golden-cage/</loc><lastmod>2026-08-06T10:40:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://localhost:1314/20-the-golden-cage/</loc><lastmod>2026-08-06T10:40:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1314/tags/first-contact/</loc><lastmod>2026-08-05T10:03:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1314/categories/sci-fi/</loc><lastmod>2026-08-05T10:03:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1314/tags/sci-fi/</loc><lastmod>2026-08-05T10:03:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1314/19-the-manhole-cover/</loc><lastmod>2026-08-05T10:03:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1314/tags/first-contact/</loc><lastmod>2026-08-05T10:03:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:1314/tags/sci-fi/</loc><lastmod>2026-08-05T10:03:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:1314/19-the-manhole-cover/</loc><lastmod>2026-08-05T10:03:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>http://localhost:1314/18-dialup-wikipedia/</loc><lastmod>2026-08-04T09:11:54&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>http://localhost:1314/tags/time-travel/</loc><lastmod>2026-08-04T09:11:54&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>http://localhost:1314/17-temporal-displacement/</loc><lastmod>2026-08-02T10:33:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
@@ -35,14 +41,13 @@
             <loc>http://localhost:1314/tags/comedy/</loc><lastmod>2026-07-31T11:42:21&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>http://localhost:1314/15-swiss-surprise/</loc><lastmod>2026-07-31T11:42:21&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>http://localhost:1314/tags/unexpected/</loc><lastmod>2026-07-31T11:42:21&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:1314/categories/alternate-reality/</loc><lastmod>2026-07-28T17:46:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:1314/tags/alternate-reality/</loc><lastmod>2026-07-28T17:46:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:1314/14-shadows-over-the-channel/</loc><lastmod>2026-07-28T17:46:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:1314/categories/alternate-reality/</loc><lastmod>2026-07-28T17:46:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>http://localhost:1314/tags/alternate-reality/</loc><lastmod>2026-07-28T17:46:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>http://localhost:1314/14-shadows-over-the-channel/</loc><lastmod>2026-07-28T17:46:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
             <loc>http://localhost:1314/13-friendly-fire/</loc><lastmod>2026-07-28T10:38:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
             <loc>http://localhost:1314/tags/time-loop/</loc><lastmod>2026-07-28T10:38:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
             <loc>http://localhost:1314/tags/americana/</loc><lastmod>2026-07-26T21:54:12&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
             <loc>http://localhost:1314/12-the-crown-s-horizon/</loc><lastmod>2026-07-26T21:54:12&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>http://localhost:1314/tags/historical-fiction/</loc><lastmod>2026-07-25T13:26:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
             <loc>http://localhost:1314/11-red-eagle-of-leipzig/</loc><lastmod>2026-07-25T13:26:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
             <loc>http://localhost:1314/tags/found-item/</loc><lastmod>2026-07-25T09:58:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
             <loc>http://localhost:1314/tags/horror/</loc><lastmod>2026-07-25T09:58:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>

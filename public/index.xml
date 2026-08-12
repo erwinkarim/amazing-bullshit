@@ -4,9 +4,23 @@
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Tue, 11 Aug 2026 14:27:58 &#43;0800</lastBuildDate>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Wed, 12 Aug 2026 12:25:18 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>The Echo at Tell Es-Sultan</title>
+    <link>http://localhost:1314/24-echo-at-tell-es-sultan/</link>
+    <pubDate>Wed, 12 Aug 2026 12:25:18 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/24-echo-at-tell-es-sultan/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/24-echo-at-tell-es-sultan-cover.webp" referrerpolicy="no-referrer">
+            </div><h3 id="the-echo-at-tell-es-sultan">The Echo at Tell es-Sultan</h3>
+<p><strong>Setting:</strong> Jericho, c. 8,500 BCE. At the edge of the Jordan Valley sits Tell es-Sultan. Rising 28 feet above a ring of mud-brick homes stands the Tower of Jericho—humanity’s very first monumental watchtower.</p>
+<hr>
+<h3 id="act-i-there-must-be-some-way-out-of-here">Act I: &ldquo;There Must Be Some Way Out of Here&rdquo;</h3>
+<p>The night wind off the Judean desert smelled of parched earth and old wheat chaff. In the shadow of Jericho’s newly raised stone wall, two men huddled beside a dying hearth.</p>]]></description>
+</item>
+<item>
     <title>The Depth of Terms</title>
     <link>http://localhost:1314/23-depth-of-terms/</link>
     <pubDate>Tue, 11 Aug 2026 14:27:58 &#43;0800</pubDate>
@@ -117,18 +131,6 @@
             </div><p>Julian’s Thursday lunch at <em>Le Chalet Central</em> was supposed to be completely unremarkable: a plate of veal cutlet, a glass of Pinot Noir, and forty-five minutes of staring blankly at his phone.</p>
 <p>Then he went to wash his hands.</p>
 <p>Sitting on the pristine white marble sink, directly between the lavender hand soap and a stack of folded linen towels, was an unzipped leather duffel bag. Peeking out from the top were thick, immaculate bricks of purple paper.</p>]]></description>
-</item>
-<item>
-    <title>Shadows Over the Channel</title>
-    <link>http://localhost:1314/14-shadows-over-the-channel/</link>
-    <pubDate>Tue, 28 Jul 2026 17:46:45 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/14-shadows-over-the-channel/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/14-shadows-over-the-channel-cover.webp" referrerpolicy="no-referrer">
-            </div><p><strong>Paris, May 2002.</strong></p>
-<p>Rain brushed against the tall arched windows of the restored Tuileries Palace, casting a soft sheen over the courtyard where imperial guards in tailored blue-and-gold uniforms stood at attention. Inside the Grand Cabinet, sleek flat-panel screens flickered discreetly beside gold-leafed furniture and silk tapestries—a subtle blend of 21st-century technology and classic imperial grandeur.</p>
-<p>Emperor Napoleon VI stood with his hands folded behind his back, looking out over the gardens. At sixty-two, he possessed the sharp, hawkish gaze of his famous ancestor, though his empire was built on economic consolidation rather than endless conquest. Nearly two centuries earlier, Napoleon I had made the decisive choice: he halted his armies at the borders of Continental Europe, turned away from the treacherous frosts of Russia, and abandoned ambitions in Africa.</p>]]></description>
 </item>
 </channel>
 </rss>

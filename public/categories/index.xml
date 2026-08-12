@@ -16,9 +16,23 @@
 			<copyright>erwinkarim. 2026</copyright>
 		
 		
-			<lastBuildDate>Mon, 10 Aug 2026 18:38:21 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 11 Aug 2026 14:27:58 +0800</lastBuildDate>
 		
 			<atom:link href="http://localhost:1314/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Sci-Fi</title>
+				<link>http://localhost:1314/categories/sci-fi/</link>
+				<pubDate>Tue, 11 Aug 2026 14:27:58 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/sci-fi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>War</title>
+				<link>http://localhost:1314/categories/war/</link>
+				<pubDate>Tue, 11 Aug 2026 14:27:58 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/war/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>What If</title>
 				<link>http://localhost:1314/categories/what-if/</link>
@@ -38,13 +52,6 @@
 				<link>http://localhost:1314/categories/cautionary-tale/</link>
 				<pubDate>Thu, 06 Aug 2026 10:40:01 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/categories/cautionary-tale/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Sci-Fi</title>
-				<link>http://localhost:1314/categories/sci-fi/</link>
-				<pubDate>Wed, 05 Aug 2026 10:03:07 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/categories/sci-fi/</guid>
 				<description></description>
 			</item>
 			<item>
