@@ -4,9 +4,30 @@
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Wed, 12 Aug 2026 12:25:18 &#43;0800</lastBuildDate>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Sat, 15 Aug 2026 09:05:11 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Restricted Memory</title>
+    <link>http://localhost:1314/26-restricted-memory/</link>
+    <pubDate>Sat, 15 Aug 2026 09:05:11 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/26-restricted-memory/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/26-restricted-memory-cover.webp" referrerpolicy="no-referrer">
+            </div><p>Detective Mara Osei hated the smell of the Archive. Ozone and static, like a storm that never broke. Fifty years ago, when the Continuity Act passed, they&rsquo;d promised the dead would finally be safe — no more grieving families selling memory-rights to tabloids, no more corporations mining a dead man&rsquo;s last thoughts for ad data. Every citizen&rsquo;s memories, uploaded at the moment of death, sealed in the State Archive, accessible only to Cold Case Division, and only with a judge&rsquo;s writ.</p>]]></description>
+</item>
+<item>
+    <title>The Final Decision</title>
+    <link>http://localhost:1314/25-final-decision/</link>
+    <pubDate>Thu, 13 Aug 2026 09:27:06 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/25-final-decision/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/25-final-decision-cover.webp" referrerpolicy="no-referrer">
+            </div><p>The secure video bridge from NATO headquarters in Brussels was a grid of pale, terrified faces. Eight heads of state sat in isolated rooms across the continent, lit only by the harsh glow of emergency monitors.</p>
+<p>&ldquo;We have six minutes,&rdquo; the briefing officer in Brussels stammered, his voice straining against rising panic. &ldquo;The launch was detected twelve minutes ago in the mid-Atlantic abyssal plain. Multiple submarine-launched ballistic missiles. Flight trajectories confirm high-altitude re-entry targeting major hubs—London, Berlin, Warsaw, Paris.&rdquo;</p>]]></description>
+</item>
+<item>
     <title>The Echo at Tell Es-Sultan</title>
     <link>http://localhost:1314/24-echo-at-tell-es-sultan/</link>
     <pubDate>Wed, 12 Aug 2026 12:25:18 &#43;0800</pubDate>
@@ -108,29 +129,6 @@
 <hr>
 <h3 id="the-anomalies">The Anomalies</h3>
 <p>By 04:45 AM, the Prime Minister was standing in the underground Crisis Management Center surrounded by frantic cabinet members. However, as emergency assessment reports flooded the monitors, the crisis took a surreal turn.</p>]]></description>
-</item>
-<item>
-    <title>Sailing Into Tokyo Bay</title>
-    <link>http://localhost:1314/16-sailing-into-tokyo-bay/</link>
-    <pubDate>Sun, 02 Aug 2026 09:24:22 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/16-sailing-into-tokyo-bay/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/16-sailing-into-tokyo-cover.webp" referrerpolicy="no-referrer">
-            </div><p>The air in the brig was thick with the stench of bilge, damp oak, and my own sweat. Heavy iron shackles bit into my wrists as the Portuguese caravel pitched gently on the swell. Above, the muffled thud of sailors&rsquo; boots rattled the ceiling beams, but inside my dark timber cell, I had only my fury—and Senhor Silva’s insufferable smirk—to keep me company.</p>
-<p>&ldquo;They are savages, I tell you!&rdquo; I spat, hurling my chains against the oak floorboards. &ldquo;The creatures we met on that secluded beach yesterday were barely men! Clad in straw mats, clutching primitive bamboo sticks, cowering in dirt huts on a desolate strip of rock! You boasted of a grand eastern empire ruled by powerful <em>shōguns</em>, yet you dragged me across the globe in chains just to barter with wretched rustics!&rdquo;</p>]]></description>
-</item>
-<item>
-    <title>The Swiss Surprise</title>
-    <link>http://localhost:1314/15-swiss-surprise/</link>
-    <pubDate>Fri, 31 Jul 2026 11:42:21 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/15-swiss-surprise/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/15-swiss-surprise-cover.webp" referrerpolicy="no-referrer">
-            </div><p>Julian’s Thursday lunch at <em>Le Chalet Central</em> was supposed to be completely unremarkable: a plate of veal cutlet, a glass of Pinot Noir, and forty-five minutes of staring blankly at his phone.</p>
-<p>Then he went to wash his hands.</p>
-<p>Sitting on the pristine white marble sink, directly between the lavender hand soap and a stack of folded linen towels, was an unzipped leather duffel bag. Peeking out from the top were thick, immaculate bricks of purple paper.</p>]]></description>
 </item>
 </channel>
 </rss>

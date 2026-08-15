@@ -3,6 +3,7 @@ date = '2026-08-12T12:25:18+08:00'
 draft = false
 title = 'The Echo at Tell Es-Sultan'
 tags = ["historical fiction"]
+categories = ["historical fiction"]
 featuredImage = "/img/posts/24-echo-at-tell-es-sultan-cover.webp"
 +++
 
