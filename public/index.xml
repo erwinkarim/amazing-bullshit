@@ -4,9 +4,20 @@
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Sat, 15 Aug 2026 09:05:11 &#43;0800</lastBuildDate>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Sun, 16 Aug 2026 10:07:02 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>The Swimmer in the River</title>
+    <link>http://localhost:1314/27-swimmer-in-the-river/</link>
+    <pubDate>Sun, 16 Aug 2026 10:07:02 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/27-swimmer-in-the-river/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/27-swimmer-in-the-river-cover.webp" referrerpolicy="no-referrer">
+            </div><p>The cafe was nearly empty at this hour, which was exactly why Daniel liked it. Rain streaked the window beside his table, and spread across the wood in front of him were pages of equations, timelines, and a photograph worn soft at the corners — his wife, laughing at something just out of frame.</p>
+<p>Five years. Five years since she died, and five years since he&rsquo;d decided that dying didn&rsquo;t have to be permanent, not if you were clever enough, not if you loved someone enough. He&rsquo;d built a machine in his garage that folded time the way some men folded paper cranes. Attempt one hundred and seventeen had failed last week. She&rsquo;d been crossing the street when it happened — except this time it wasn&rsquo;t the car he&rsquo;d stopped. It was a bicycle he never saw coming.</p>]]></description>
+</item>
+<item>
     <title>Restricted Memory</title>
     <link>http://localhost:1314/26-restricted-memory/</link>
     <pubDate>Sat, 15 Aug 2026 09:05:11 &#43;0800</pubDate>
@@ -115,20 +126,6 @@
 <p>Leo took a deep breath and clicked the icon for the terminal software.</p>
 <p>Then came the ritual.</p>
 <p>The external 14.4k modem on the desk sprang to life with a loud relay <em>click</em>. First came the familiar, hollow dial tone, echoing through the small speaker. Then, the rhythmic, frantic tone-dialing—<em>beep-boop-beep-boop</em>. A long pause.</p>]]></description>
-</item>
-<item>
-    <title>Temporal Displacement</title>
-    <link>http://localhost:1314/17-temporal-displacement/</link>
-    <pubDate>Sun, 02 Aug 2026 10:33:09 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/17-temporal-displacement/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/17-Temporal-Displacement-cover.webp" referrerpolicy="no-referrer">
-            </div><p>At 04:12 AM, a blinding flash of violet light shattered the darkness over Tokyo, followed immediately by a deep, rolling shudder that shook the foundation of the Prime Minister&rsquo;s official residence.</p>
-<p>He bolted upright in bed, threw on a jacket, and rushed straight for the emergency transport. The response was immediate and practiced—a standard, high-priority protocol for a major Kantō earthquake.</p>
-<hr>
-<h3 id="the-anomalies">The Anomalies</h3>
-<p>By 04:45 AM, the Prime Minister was standing in the underground Crisis Management Center surrounded by frantic cabinet members. However, as emergency assessment reports flooded the monitors, the crisis took a surreal turn.</p>]]></description>
 </item>
 </channel>
 </rss>
