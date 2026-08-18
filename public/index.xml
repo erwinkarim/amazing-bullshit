@@ -4,9 +4,20 @@
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Mon, 17 Aug 2026 16:58:52 &#43;0800</lastBuildDate>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Tue, 18 Aug 2026 09:58:06 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Red Horizon</title>
+    <link>http://localhost:1314/29-red-horizon/</link>
+    <pubDate>Tue, 18 Aug 2026 09:58:06 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/29-red-horizon/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/29-red-horizon-cover.webp" referrerpolicy="no-referrer">
+            </div><p>Month six of nine, and the <em>Meridian</em> hummed along its long arc toward Mars like a held breath. Five crew, four hundred systems, three redundancies for every one that mattered — and still the ship found ways to bite.</p>
+<p>First it was a coolant loop tripping offline for no reason anyone could find. Then a scrubber cycling into fault mode at 3 a.m., waking the whole crew to the smell of stale recycled air. Then a comms blackout that lasted six hours and left everyone staring at a silent console, waiting for a voice that didn&rsquo;t come.</p>]]></description>
+</item>
+<item>
     <title>A Mercedes in Detroit</title>
     <link>http://localhost:1314/28-a-mercedes-in-detroit/</link>
     <pubDate>Mon, 17 Aug 2026 16:58:52 &#43;0800</pubDate>
@@ -119,17 +130,6 @@
                 <img src="/img/posts/20-golden-cage-cover.webp" referrerpolicy="no-referrer">
             </div><p>The morning alarm in the Grand Palace of Aurelia was not a rude chime, but a live harpist performing softly from behind a silk screen.</p>
 <p>Prince Kael opened his eyes beneath a grand canopy woven from pure silver thread. Within seconds of his eyelids fluttering, a choreographed army of attendants glided into the chamber. One offered a warm linen towel infused with rare orchid essence; another held a tray bearing an espresso dusted with edible 24-karat gold; a third knelt quietly, presenting a velvet tray of five custom diamond cufflinks.</p>]]></description>
-</item>
-<item>
-    <title>The Manhole Cover</title>
-    <link>http://localhost:1314/19-the-manhole-cover/</link>
-    <pubDate>Wed, 05 Aug 2026 10:03:07 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/19-the-manhole-cover/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/19-the-manhole-cover.webp" referrerpolicy="no-referrer">
-            </div><p>The targeting reticle flickered across my primary display, locked onto a tiny, high-density radar signature tumbling through the dark.</p>
-<p>We had first logged the object three years ago—an absolute anomaly drifting through the void. At first, astrometrics assumed it was just a stray metallic meteorite. But nature doesn&rsquo;t forge perfectly circular, hyper-dense iron plates with uniform thickness. Someone had built this. It was our first tangible proof of an intelligent civilization beyond our world.</p>]]></description>
 </item>
 </channel>
 </rss>

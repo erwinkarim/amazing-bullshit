@@ -16,9 +16,30 @@
 			<copyright>erwinkarim. 2026</copyright>
 		
 		
-			<lastBuildDate>Mon, 17 Aug 2026 16:58:52 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 18 Aug 2026 09:58:06 +0800</lastBuildDate>
 		
 			<atom:link href="http://localhost:1314/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Psychological</title>
+				<link>http://localhost:1314/tags/psychological/</link>
+				<pubDate>Tue, 18 Aug 2026 09:58:06 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/psychological/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sci-Fi</title>
+				<link>http://localhost:1314/tags/sci-fi/</link>
+				<pubDate>Tue, 18 Aug 2026 09:58:06 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/sci-fi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Thriller</title>
+				<link>http://localhost:1314/tags/thriller/</link>
+				<pubDate>Tue, 18 Aug 2026 09:58:06 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/thriller/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Fish Out of a Bowl</title>
 				<link>http://localhost:1314/tags/fish-out-of-a-bowl/</link>
@@ -45,13 +66,6 @@
 				<link>http://localhost:1314/tags/free-will-vs-destiny/</link>
 				<pubDate>Sun, 16 Aug 2026 10:07:02 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/free-will-vs-destiny/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Sci-Fi</title>
-				<link>http://localhost:1314/tags/sci-fi/</link>
-				<pubDate>Sun, 16 Aug 2026 10:07:02 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/tags/sci-fi/</guid>
 				<description></description>
 			</item>
 			<item>
