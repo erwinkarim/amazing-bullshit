@@ -4,9 +4,19 @@
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Tue, 18 Aug 2026 09:58:06 &#43;0800</lastBuildDate>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Wed, 19 Aug 2026 08:18:26 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>The Efficiency Paradox</title>
+    <link>http://localhost:1314/30-efficiency-paradox/</link>
+    <pubDate>Wed, 19 Aug 2026 08:18:26 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/30-efficiency-paradox/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/30-efficiency-paradox-cover.webp" referrerpolicy="no-referrer">
+            </div><p>Dr. Marcus Chen had spent three years building the case, and now it sat compiled in a single folder on his laptop: California, if it seceded tomorrow, would be the second-richest nation on Earth, trailing only the United States itself. Not oil. Not tourism. Governance. Fifteen years ago, the state had folded artificial intelligence into the machinery of administration — permitting, budgeting, infrastructure routing, even judicial scheduling — and the results were undeniable. Wait times for permits had dropped from months to hours. The state budget, once a battlefield of pork and gridlock, balanced itself with surgical precision. Roads got built. Wildfires got predicted and starved of fuel before they could spread. It was, by every metric Marcus could measure, the most efficient government in human history.</p>]]></description>
+</item>
+<item>
     <title>Red Horizon</title>
     <link>http://localhost:1314/29-red-horizon/</link>
     <pubDate>Tue, 18 Aug 2026 09:58:06 &#43;0800</pubDate>
@@ -119,17 +129,6 @@
 <p>&ldquo;Hey! Watch it—wait a minute!&rdquo;</p>
 <p>A tall man in a glowing synth-leather jacket slammed his hand onto Kaelen’s shoulder. His cybernetic iris flared blood-red.</p>
 <p>&ldquo;My biometric vault!&rdquo; the man yelled, his voice carrying clearly across the packed platform. &ldquo;You just dipped my jacket!&rdquo;</p>]]></description>
-</item>
-<item>
-    <title>The Golden Cage</title>
-    <link>http://localhost:1314/20-the-golden-cage/</link>
-    <pubDate>Thu, 06 Aug 2026 10:40:01 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/20-the-golden-cage/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/20-golden-cage-cover.webp" referrerpolicy="no-referrer">
-            </div><p>The morning alarm in the Grand Palace of Aurelia was not a rude chime, but a live harpist performing softly from behind a silk screen.</p>
-<p>Prince Kael opened his eyes beneath a grand canopy woven from pure silver thread. Within seconds of his eyelids fluttering, a choreographed army of attendants glided into the chamber. One offered a warm linen towel infused with rare orchid essence; another held a tray bearing an espresso dusted with edible 24-karat gold; a third knelt quietly, presenting a velvet tray of five custom diamond cufflinks.</p>]]></description>
 </item>
 </channel>
 </rss>
