@@ -1,0 +1,88 @@
+/* Scoped utility styles for the Ashworth Manor maze-game widget.
+   Everything is namespaced under .maze-game-widget so it can't
+   collide with the rest of your Hugo theme's CSS. This is a small,
+   hand-picked subset of Tailwind-style utilities — just the ones the
+   widget actually uses — since the widget ships without Tailwind's
+   build step. */
+
+:is(.maze-game-widget, .maze-game-widget *) {
+  box-sizing: border-box;
+}
+.maze-game-widget h1,
+.maze-game-widget p,
+.maze-game-widget button {
+  margin: 0;
+  padding: 0;
+}
+.maze-game-widget button {
+  border: none;
+  background: none;
+  font: inherit;
+  cursor: pointer;
+}
+.maze-game-widget button:disabled {
+  cursor: not-allowed;
+}
+
+/* layout */
+.maze-game-widget .flex { display: flex; }
+.maze-game-widget .relative { position: relative; }
+.maze-game-widget .absolute { position: absolute; }
+.maze-game-widget .overflow-hidden { overflow: hidden; }
+.maze-game-widget .items-center { align-items: center; }
+.maze-game-widget .justify-center { justify-content: center; }
+.maze-game-widget .justify-between { justify-content: space-between; }
+
+/* sizing */
+.maze-game-widget .w-full { width: 100%; }
+.maze-game-widget .w-16 { width: 4rem; }
+.maze-game-widget .h-6 { height: 1.5rem; }
+.maze-game-widget .max-w-xl { max-width: 36rem; }
+.maze-game-widget .min-h-full { min-height: 100%; }
+
+/* offsets */
+.maze-game-widget .-top-2 { top: -0.5rem; }
+.maze-game-widget .-top-3 { top: -0.75rem; }
+.maze-game-widget .-left-3 { left: -0.75rem; }
+.maze-game-widget .-right-3 { right: -0.75rem; }
+
+/* spacing */
+.maze-game-widget .p-4 { padding: 1rem; }
+.maze-game-widget .p-5 { padding: 1.25rem; }
+.maze-game-widget .p-6 { padding: 1.5rem; }
+.maze-game-widget .px-4 { padding-left: 1rem; padding-right: 1rem; }
+.maze-game-widget .py-2 { padding-top: 0.5rem; padding-bottom: 0.5rem; }
+.maze-game-widget .mb-1 { margin-bottom: 0.25rem; }
+.maze-game-widget .mb-2 { margin-bottom: 0.5rem; }
+.maze-game-widget .mb-3 { margin-bottom: 0.75rem; }
+.maze-game-widget .mb-4 { margin-bottom: 1rem; }
+.maze-game-widget .mt-4 { margin-top: 1rem; }
+.maze-game-widget .gap-1 { gap: 0.25rem; }
+.maze-game-widget .gap-2 { gap: 0.5rem; }
+.maze-game-widget .gap-3 { gap: 0.75rem; }
+
+/* typography */
+.maze-game-widget .text-xs { font-size: 0.75rem; line-height: 1rem; }
+.maze-game-widget .text-sm { font-size: 0.875rem; line-height: 1.25rem; }
+.maze-game-widget .text-2xl { font-size: 1.5rem; line-height: 2rem; }
+.maze-game-widget .uppercase { text-transform: uppercase; }
+.maze-game-widget .italic { font-style: italic; }
+.maze-game-widget .font-bold { font-weight: 700; }
+.maze-game-widget .tracking-widest { letter-spacing: 0.1em; }
+.maze-game-widget .leading-relaxed { line-height: 1.625; }
+.maze-game-widget .select-none { user-select: none; }
+
+/* borders / shadow */
+.maze-game-widget .rounded-sm { border-radius: 0.125rem; }
+.maze-game-widget .rounded-full { border-radius: 9999px; }
+.maze-game-widget .shadow-2xl { box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.45); }
+
+/* interaction */
+.maze-game-widget .transition { transition: all 150ms cubic-bezier(0.4, 0, 0.2, 1); }
+.maze-game-widget .hover\:opacity-90:hover { opacity: 0.9; }
+.maze-game-widget .active\:scale-95:active { transform: scale(0.95); }
+.maze-game-widget .focus\:outline-none:focus { outline: none; }
+.maze-game-widget .focus-visible\:ring-2:focus-visible {
+  box-shadow: 0 0 0 2px rgba(154, 43, 50, 0.6);
+}
+.maze-game-widget .disabled\:cursor-not-allowed:disabled { cursor: not-allowed; }

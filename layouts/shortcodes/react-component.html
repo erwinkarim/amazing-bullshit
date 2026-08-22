@@ -1,0 +1,6 @@
+{{ $id := .Get "id" | default "react-root" }}
+<div 
+  id="{{ $id }}" 
+  class="react-component-container"
+  data-props="{{ .Get "props" | default "{}" }}"
+></div>
