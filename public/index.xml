@@ -4,9 +4,19 @@
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Fri, 21 Aug 2026 11:37:36 &#43;0800</lastBuildDate>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Sun, 23 Aug 2026 10:23:49 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>The Duplicate</title>
+    <link>http://localhost:1314/33-the-duplicate/</link>
+    <pubDate>Sun, 23 Aug 2026 10:23:49 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/33-the-duplicate/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/33-the-duplicate-cover.webp" referrerpolicy="no-referrer">
+            </div><p>The thin handles of the plastic grocery bag dug painfully into my fingers, carrying nothing more than a cheap box of coffee filters. Ten minutes. I had been gone for ten minutes. Yet as I pushed open the front door, the air inside felt instantly, terrifyingly wrong. The deadbolt was unlatched. From the kitchen, the familiar sizzle of searing garlic drifted down the hallway, wrapped in the warm, careless laughter of my wife and daughter.</p>]]></description>
+</item>
+<item>
     <title>The Ashworth Manor Murder</title>
     <link>http://localhost:1314/32-ashworth-manor-murder/</link>
     <pubDate>Fri, 21 Aug 2026 11:37:36 &#43;0800</pubDate>
@@ -117,18 +127,6 @@ is yours to trace.</p>]]></description>
 <hr>
 <h3 id="act-i-there-must-be-some-way-out-of-here">Act I: &ldquo;There Must Be Some Way Out of Here&rdquo;</h3>
 <p>The night wind off the Judean desert smelled of parched earth and old wheat chaff. In the shadow of Jericho’s newly raised stone wall, two men huddled beside a dying hearth.</p>]]></description>
-</item>
-<item>
-    <title>The Depth of Terms</title>
-    <link>http://localhost:1314/23-depth-of-terms/</link>
-    <pubDate>Tue, 11 Aug 2026 14:27:58 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/23-depth-of-terms/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/23-depth-of-terms-cover.webp" referrerpolicy="no-referrer">
-            </div><h2 id="the-depth-of-terms">The Depth of Terms</h2>
-<p>The rain beat a steady rhythm against the armored glass of the sea-station, overlooking the fractured waters of the Azure Passage—the world’s most vital maritime trade route, now choked with the rusting husks of warships. For nineteen years, the <strong>Kalaan Arch-Republic</strong> and the <strong>Vestra Dominion</strong> had bled each other dry across these volcanic chains.</p>
-<p>Across the obsidian table sat High Commissioner Vance of Vestra, leaning back with a smug, weary grin. Opposite him was Envoy Malek of Kalaan, stoic and posture-perfect. Despite two decades of brutal attrition, formal diplomatic protocol had never broken down between the two island powers.</p>]]></description>
 </item>
 </channel>
 </rss>
