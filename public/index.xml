@@ -4,9 +4,19 @@
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Sun, 23 Aug 2026 10:23:49 &#43;0800</lastBuildDate>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Mon, 24 Aug 2026 10:50:35 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>The Long Game</title>
+    <link>http://localhost:1314/34-the-long-game/</link>
+    <pubDate>Mon, 24 Aug 2026 10:50:35 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/34-the-long-game/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/34-the-long-game-cover.webp" referrerpolicy="no-referrer">
+            </div><p>The morning fog over the pines at <strong>Zavidovo</strong> was thick enough to swallow the birch trees whole. George Bush adjusted the collar of his woolen sweater, staring out the floor-to-ceiling window of the state dacha. Outside, the air was bitter cold, but inside, the modern Soviet retreat burned with quiet, prosperous warmth. This wasn&rsquo;t the decaying, bureaucratic empire his predecessors had anticipated decades ago. The Soviet Union in the winter of 1990 was modern, sleek, and dangerously confident—a market-socialist leviathan that had successfully retooled its central planning without surrendering an inch of its global reach.</p>]]></description>
+</item>
+<item>
     <title>The Duplicate</title>
     <link>http://localhost:1314/33-the-duplicate/</link>
     <pubDate>Sun, 23 Aug 2026 10:23:49 &#43;0800</pubDate>
@@ -113,20 +123,6 @@ is yours to trace.</p>]]></description>
                 <img src="/img/posts/25-final-decision-cover.webp" referrerpolicy="no-referrer">
             </div><p>The secure video bridge from NATO headquarters in Brussels was a grid of pale, terrified faces. Eight heads of state sat in isolated rooms across the continent, lit only by the harsh glow of emergency monitors.</p>
 <p>&ldquo;We have six minutes,&rdquo; the briefing officer in Brussels stammered, his voice straining against rising panic. &ldquo;The launch was detected twelve minutes ago in the mid-Atlantic abyssal plain. Multiple submarine-launched ballistic missiles. Flight trajectories confirm high-altitude re-entry targeting major hubs—London, Berlin, Warsaw, Paris.&rdquo;</p>]]></description>
-</item>
-<item>
-    <title>The Echo at Tell Es-Sultan</title>
-    <link>http://localhost:1314/24-echo-at-tell-es-sultan/</link>
-    <pubDate>Wed, 12 Aug 2026 12:25:18 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/24-echo-at-tell-es-sultan/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/24-echo-at-tell-es-sultan-cover.webp" referrerpolicy="no-referrer">
-            </div><h3 id="the-echo-at-tell-es-sultan">The Echo at Tell es-Sultan</h3>
-<p><strong>Setting:</strong> Jericho, c. 8,500 BCE. At the edge of the Jordan Valley sits Tell es-Sultan. Rising 28 feet above a ring of mud-brick homes stands the Tower of Jericho—humanity’s very first monumental watchtower.</p>
-<hr>
-<h3 id="act-i-there-must-be-some-way-out-of-here">Act I: &ldquo;There Must Be Some Way Out of Here&rdquo;</h3>
-<p>The night wind off the Judean desert smelled of parched earth and old wheat chaff. In the shadow of Jericho’s newly raised stone wall, two men huddled beside a dying hearth.</p>]]></description>
 </item>
 </channel>
 </rss>
