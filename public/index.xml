@@ -4,9 +4,19 @@
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Mon, 24 Aug 2026 10:50:35 &#43;0800</lastBuildDate>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Wed, 26 Aug 2026 10:58:33 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>The Test</title>
+    <link>http://localhost:1314/35-the-test/</link>
+    <pubDate>Wed, 26 Aug 2026 10:58:33 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/35-the-test/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/35-the-test-cover.webp" referrerpolicy="no-referrer">
+            </div><p>The workshop at the bend of the Tiber sounded like no other place in the Roman Empire. It did not ring with the chaotic, uneven beat of hammer on anvil, but with the rhythmic, clockwork thrum of water-driven cams and precision-turned gears. Outside, dozens of hopeful young men lined the dusty stone path—sons of senators, scholars, and wealthy merchants, all desperate to study under the enigmatic <strong>Architectus</strong>, the man who had single-handedly revolutionized construction, irrigation, and metallurgy across Italy.</p>]]></description>
+</item>
+<item>
     <title>The Long Game</title>
     <link>http://localhost:1314/34-the-long-game/</link>
     <pubDate>Mon, 24 Aug 2026 10:50:35 &#43;0800</pubDate>
@@ -112,17 +122,6 @@ is yours to trace.</p>]]></description>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/posts/26-restricted-memory-cover.webp" referrerpolicy="no-referrer">
             </div><p>Detective Mara Osei hated the smell of the Archive. Ozone and static, like a storm that never broke. Fifty years ago, when the Continuity Act passed, they&rsquo;d promised the dead would finally be safe — no more grieving families selling memory-rights to tabloids, no more corporations mining a dead man&rsquo;s last thoughts for ad data. Every citizen&rsquo;s memories, uploaded at the moment of death, sealed in the State Archive, accessible only to Cold Case Division, and only with a judge&rsquo;s writ.</p>]]></description>
-</item>
-<item>
-    <title>The Final Decision</title>
-    <link>http://localhost:1314/25-final-decision/</link>
-    <pubDate>Thu, 13 Aug 2026 09:27:06 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/25-final-decision/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/25-final-decision-cover.webp" referrerpolicy="no-referrer">
-            </div><p>The secure video bridge from NATO headquarters in Brussels was a grid of pale, terrified faces. Eight heads of state sat in isolated rooms across the continent, lit only by the harsh glow of emergency monitors.</p>
-<p>&ldquo;We have six minutes,&rdquo; the briefing officer in Brussels stammered, his voice straining against rising panic. &ldquo;The launch was detected twelve minutes ago in the mid-Atlantic abyssal plain. Multiple submarine-launched ballistic missiles. Flight trajectories confirm high-altitude re-entry targeting major hubs—London, Berlin, Warsaw, Paris.&rdquo;</p>]]></description>
 </item>
 </channel>
 </rss>
