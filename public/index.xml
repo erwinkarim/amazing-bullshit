@@ -4,9 +4,21 @@
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Wed, 26 Aug 2026 10:58:33 &#43;0800</lastBuildDate>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Fri, 28 Aug 2026 11:20:23 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>The Blessing</title>
+    <link>http://localhost:1314/36-the-blessing/</link>
+    <pubDate>Fri, 28 Aug 2026 11:20:23 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/36-the-blessing/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/36-the-blessing-cover.webp" referrerpolicy="no-referrer">
+            </div><p>Marcus woke at dawn, as he always did, kneeling beside his bed before his feet ever touched the cold floor. The apartment was small—barely more than a studio—but the morning light filtering through the single window held a quality that felt almost sacred.</p>
+<p>&ldquo;Lord,&rdquo; he whispered, hands clasped, &ldquo;bless me with work today. Provide for Your humble servant.&rdquo;</p>
+<p>It was a ritual he&rsquo;d kept for three years now, ever since losing his job at the factory. Not a prayer of desperation anymore, but one of gratitude. He&rsquo;d learned that much. Even now, scraping by on gig work, he had shelter. He had breath in his lungs. That was enough.</p>]]></description>
+</item>
+<item>
     <title>The Test</title>
     <link>http://localhost:1314/35-the-test/</link>
     <pubDate>Wed, 26 Aug 2026 10:58:33 &#43;0800</pubDate>
@@ -112,16 +124,6 @@ is yours to trace.</p>]]></description>
                 <img src="/img/posts/27-swimmer-in-the-river-cover.webp" referrerpolicy="no-referrer">
             </div><p>The cafe was nearly empty at this hour, which was exactly why Daniel liked it. Rain streaked the window beside his table, and spread across the wood in front of him were pages of equations, timelines, and a photograph worn soft at the corners — his wife, laughing at something just out of frame.</p>
 <p>Five years. Five years since she died, and five years since he&rsquo;d decided that dying didn&rsquo;t have to be permanent, not if you were clever enough, not if you loved someone enough. He&rsquo;d built a machine in his garage that folded time the way some men folded paper cranes. Attempt one hundred and seventeen had failed last week. She&rsquo;d been crossing the street when it happened — except this time it wasn&rsquo;t the car he&rsquo;d stopped. It was a bicycle he never saw coming.</p>]]></description>
-</item>
-<item>
-    <title>Restricted Memory</title>
-    <link>http://localhost:1314/26-restricted-memory/</link>
-    <pubDate>Sat, 15 Aug 2026 09:05:11 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/26-restricted-memory/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/26-restricted-memory-cover.webp" referrerpolicy="no-referrer">
-            </div><p>Detective Mara Osei hated the smell of the Archive. Ozone and static, like a storm that never broke. Fifty years ago, when the Continuity Act passed, they&rsquo;d promised the dead would finally be safe — no more grieving families selling memory-rights to tabloids, no more corporations mining a dead man&rsquo;s last thoughts for ad data. Every citizen&rsquo;s memories, uploaded at the moment of death, sealed in the State Archive, accessible only to Cold Case Division, and only with a judge&rsquo;s writ.</p>]]></description>
 </item>
 </channel>
 </rss>

@@ -16,14 +16,112 @@
 			<copyright>erwinkarim. 2026</copyright>
 		
 		
-			<lastBuildDate>Fri, 21 Aug 2026 11:37:36 +0800</lastBuildDate>
+			<lastBuildDate>Fri, 28 Aug 2026 11:20:23 +0800</lastBuildDate>
 		
 			<atom:link href="http://localhost:1314/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ai</title>
+				<link>http://localhost:1314/tags/ai/</link>
+				<pubDate>Fri, 28 Aug 2026 11:20:23 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/ai/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ai Governance</title>
+				<link>http://localhost:1314/tags/ai-governance/</link>
+				<pubDate>Fri, 28 Aug 2026 11:20:23 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/ai-governance/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Data Cloud</title>
+				<link>http://localhost:1314/tags/data-cloud/</link>
+				<pubDate>Fri, 28 Aug 2026 11:20:23 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/data-cloud/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Engineering</title>
+				<link>http://localhost:1314/tags/engineering/</link>
+				<pubDate>Wed, 26 Aug 2026 10:58:33 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/engineering/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Roman Time</title>
+				<link>http://localhost:1314/tags/roman-time/</link>
+				<pubDate>Wed, 26 Aug 2026 10:58:33 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/roman-time/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Time Travel</title>
+				<link>http://localhost:1314/tags/time-travel/</link>
+				<pubDate>Wed, 26 Aug 2026 10:58:33 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/time-travel/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cold War</title>
+				<link>http://localhost:1314/tags/cold-war/</link>
+				<pubDate>Mon, 24 Aug 2026 10:50:35 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/cold-war/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Historical Fiction</title>
+				<link>http://localhost:1314/tags/historical-fiction/</link>
+				<pubDate>Mon, 24 Aug 2026 10:50:35 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/historical-fiction/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>What If</title>
+				<link>http://localhost:1314/tags/what-if/</link>
+				<pubDate>Mon, 24 Aug 2026 10:50:35 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/what-if/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cloning</title>
+				<link>http://localhost:1314/tags/cloning/</link>
+				<pubDate>Sun, 23 Aug 2026 10:23:49 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/cloning/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Horror</title>
+				<link>http://localhost:1314/tags/horror/</link>
+				<pubDate>Sun, 23 Aug 2026 10:23:49 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/horror/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Thriller</title>
+				<link>http://localhost:1314/tags/thriller/</link>
+				<pubDate>Sun, 23 Aug 2026 10:23:49 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/thriller/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Interactive Puzzle</title>
 				<link>http://localhost:1314/tags/interactive-puzzle/</link>
 				<pubDate>Fri, 21 Aug 2026 11:37:36 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/interactive-puzzle/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Murder</title>
+				<link>http://localhost:1314/tags/murder/</link>
+				<pubDate>Fri, 21 Aug 2026 11:37:36 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/murder/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Mystery</title>
+				<link>http://localhost:1314/tags/mystery/</link>
+				<pubDate>Fri, 21 Aug 2026 11:37:36 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/mystery/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -41,20 +139,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Ai</title>
-				<link>http://localhost:1314/tags/ai/</link>
-				<pubDate>Wed, 19 Aug 2026 08:18:26 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/tags/ai/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Ai Governance</title>
-				<link>http://localhost:1314/tags/ai-governance/</link>
-				<pubDate>Wed, 19 Aug 2026 08:18:26 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/tags/ai-governance/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Robot Law</title>
 				<link>http://localhost:1314/tags/robot-law/</link>
 				<pubDate>Wed, 19 Aug 2026 08:18:26 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
@@ -69,24 +153,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Thriller</title>
-				<link>http://localhost:1314/tags/thriller/</link>
-				<pubDate>Tue, 18 Aug 2026 09:58:06 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/tags/thriller/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Fish Out of a Bowl</title>
 				<link>http://localhost:1314/tags/fish-out-of-a-bowl/</link>
 				<pubDate>Mon, 17 Aug 2026 16:58:52 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/fish-out-of-a-bowl/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Time Travel</title>
-				<link>http://localhost:1314/tags/time-travel/</link>
-				<pubDate>Mon, 17 Aug 2026 16:58:52 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/tags/time-travel/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -139,13 +209,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Historical Fiction</title>
-				<link>http://localhost:1314/tags/historical-fiction/</link>
-				<pubDate>Wed, 12 Aug 2026 12:25:18 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/tags/historical-fiction/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Nukes</title>
 				<link>http://localhost:1314/tags/nukes/</link>
 				<pubDate>Tue, 11 Aug 2026 14:27:58 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
@@ -171,13 +234,6 @@
 				<link>http://localhost:1314/tags/alternate-history/</link>
 				<pubDate>Mon, 10 Aug 2026 18:38:21 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/alternate-history/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>What If</title>
-				<link>http://localhost:1314/tags/what-if/</link>
-				<pubDate>Mon, 10 Aug 2026 18:38:21 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/tags/what-if/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -276,20 +332,6 @@
 				<link>http://localhost:1314/tags/found-item/</link>
 				<pubDate>Sat, 25 Jul 2026 09:58:25 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/found-item/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Horror</title>
-				<link>http://localhost:1314/tags/horror/</link>
-				<pubDate>Sat, 25 Jul 2026 09:58:25 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/tags/horror/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Mystery</title>
-				<link>http://localhost:1314/tags/mystery/</link>
-				<pubDate>Sat, 25 Jul 2026 09:58:25 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/tags/mystery/</guid>
 				<description></description>
 			</item>
 			<item>
