@@ -4,9 +4,20 @@
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Fri, 28 Aug 2026 11:20:23 &#43;0800</lastBuildDate>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Sat, 29 Aug 2026 17:09:57 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>We Have A Situation</title>
+    <link>http://localhost:1314/37-we-have-a-situation/</link>
+    <pubDate>Sat, 29 Aug 2026 17:09:57 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/37-we-have-a-situation/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/37-we-have-a-situation-cover.webp" referrerpolicy="no-referrer">
+            </div><p>Franklin Delano Roosevelt rubbed his eyes, leaning back against the leather of his chair. It was late afternoon in 1933, and the Oval Office was stifling, thick with the scent of wool suits, damp rain, and fresh ink. Between navigating bank panics and drafting initial New Deal legislation, it had been a brutal, exhausting day.</p>
+<p>The heavy oak door swung open, but it wasn&rsquo;t his trusted secretary, Louis Howe. A woman stepped inside wearing a sharp, dark pantsuit, tapping frantically on a glowing rectangle of glass. <strong>&ldquo;Mr. President, we have a situation,&rdquo;</strong> she said, her voice laced with urgent authority. <strong>&ldquo;The Chief of Staff needs you in the Situation Room immediately. Things are escalating quickly in Germany.&rdquo;</strong></p>]]></description>
+</item>
+<item>
     <title>The Blessing</title>
     <link>http://localhost:1314/36-the-blessing/</link>
     <pubDate>Fri, 28 Aug 2026 11:20:23 &#43;0800</pubDate>
@@ -113,17 +124,6 @@ is yours to trace.</p>]]></description>
 <p><strong>CLASSIFICATION:</strong> Confidential</p>
 <p>Mr. Ford,</p>
 <p>As instructed, my team has spent the past eleven days disassembling the automobile recovered from the roadside near Woodward Avenue. I regret to inform you that our findings have raised more questions than they have answered, and I confess a measure of professional humility I have not felt since my apprentice days.</p>]]></description>
-</item>
-<item>
-    <title>The Swimmer in the River</title>
-    <link>http://localhost:1314/27-swimmer-in-the-river/</link>
-    <pubDate>Sun, 16 Aug 2026 10:07:02 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/27-swimmer-in-the-river/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/27-swimmer-in-the-river-cover.webp" referrerpolicy="no-referrer">
-            </div><p>The cafe was nearly empty at this hour, which was exactly why Daniel liked it. Rain streaked the window beside his table, and spread across the wood in front of him were pages of equations, timelines, and a photograph worn soft at the corners — his wife, laughing at something just out of frame.</p>
-<p>Five years. Five years since she died, and five years since he&rsquo;d decided that dying didn&rsquo;t have to be permanent, not if you were clever enough, not if you loved someone enough. He&rsquo;d built a machine in his garage that folded time the way some men folded paper cranes. Attempt one hundred and seventeen had failed last week. She&rsquo;d been crossing the street when it happened — except this time it wasn&rsquo;t the car he&rsquo;d stopped. It was a bicycle he never saw coming.</p>]]></description>
 </item>
 </channel>
 </rss>
