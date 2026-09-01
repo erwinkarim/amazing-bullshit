@@ -25,4 +25,6 @@ For eight tense seconds, five advanced warplanes drifted at Mach 1.4 over the ra
 
 Then, the lead PLA pilot leveled his wings, acknowledging the checkmate. The four Chinese fighters broke off their trajectory, banking westward toward the mainland. Kenji watched the radar contacts recede, keeping his formation steady along the perimeter—another day in the high-stakes Cold Peace, secured by ironclad deterrence.
 
+Editor's note: [Alternative timeline where Japan's economy didn't burst](https://share.gemini.google/32pCgjA7GXjK).
+
 {{< image src="/img/posts/38-cold-peace-comic.webp" >}}
