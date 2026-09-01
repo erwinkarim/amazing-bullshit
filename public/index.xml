@@ -4,9 +4,20 @@
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Sat, 29 Aug 2026 17:09:57 &#43;0800</lastBuildDate>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Tue, 01 Sep 2026 08:31:37 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Cold Peace</title>
+    <link>http://localhost:1314/38-cold-peace/</link>
+    <pubDate>Tue, 01 Sep 2026 08:31:37 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/38-cold-peace/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/38-cold-peace-cover.webp" referrerpolicy="no-referrer">
+            </div><p>High above the turquoise expanse of the East China Sea, the morning sun glinted off the sleek, radar-absorbent hull of the Mitsubishi F-3X <em>Shinryu</em>. Major Kenji Takahashi monitored the tactical feed integrated directly into his visor. Flanking his fighter were two autonomous <em>Raijin</em> wingman drones, their engines humming in perfect, AI-synchronized harmony—a testament to three decades of unhindered Japanese technological and financial dominance.</p>
+<p>&ldquo;Alpha Lead, this is Naha Tactical Grid,&rdquo; a controller&rsquo;s voice cut through the quantum-encrypted comms. &ldquo;Sensors detect four non-responsive tracks crossing the median line, heading vector zero-eight-zero toward Uotsuri Island. Signatures match PLA Air Force J-20 stealth fighters.&rdquo;</p>]]></description>
+</item>
+<item>
     <title>We Have A Situation</title>
     <link>http://localhost:1314/37-we-have-a-situation/</link>
     <pubDate>Sat, 29 Aug 2026 17:09:57 &#43;0800</pubDate>
@@ -107,23 +118,6 @@ is yours to trace.</p>]]></description>
                 <img src="/img/posts/29-red-horizon-cover.webp" referrerpolicy="no-referrer">
             </div><p>Month six of nine, and the <em>Meridian</em> hummed along its long arc toward Mars like a held breath. Five crew, four hundred systems, three redundancies for every one that mattered — and still the ship found ways to bite.</p>
 <p>First it was a coolant loop tripping offline for no reason anyone could find. Then a scrubber cycling into fault mode at 3 a.m., waking the whole crew to the smell of stale recycled air. Then a comms blackout that lasted six hours and left everyone staring at a silent console, waiting for a voice that didn&rsquo;t come.</p>]]></description>
-</item>
-<item>
-    <title>A Mercedes in Detroit</title>
-    <link>http://localhost:1314/28-a-mercedes-in-detroit/</link>
-    <pubDate>Mon, 17 Aug 2026 16:58:52 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/28-a-mercedes-in-detroit/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/28-a-mercedes-in-detroit-cover.webp" referrerpolicy="no-referrer">
-            </div><p><strong>INTERNAL MEMORANDUM — FORD MOTOR COMPANY</strong></p>
-<p><strong>Piquette Avenue Plant, Detroit, Michigan</strong></p>
-<p><strong>TO:</strong> Mr. Henry Ford</p>
-<p><strong>FROM:</strong> Chief Engineer, Special Projects Division</p>
-<p><strong>RE:</strong> Findings — Unidentified Motorcar, Recovered October 1913</p>
-<p><strong>CLASSIFICATION:</strong> Confidential</p>
-<p>Mr. Ford,</p>
-<p>As instructed, my team has spent the past eleven days disassembling the automobile recovered from the roadside near Woodward Avenue. I regret to inform you that our findings have raised more questions than they have answered, and I confess a measure of professional humility I have not felt since my apprentice days.</p>]]></description>
 </item>
 </channel>
 </rss>

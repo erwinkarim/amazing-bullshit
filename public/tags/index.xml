@@ -16,9 +16,30 @@
 			<copyright>erwinkarim. 2026</copyright>
 		
 		
-			<lastBuildDate>Fri, 28 Aug 2026 11:20:23 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 29 Aug 2026 17:09:57 +0800</lastBuildDate>
 		
 			<atom:link href="http://localhost:1314/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Fish Out of Water</title>
+				<link>http://localhost:1314/tags/fish-out-of-water/</link>
+				<pubDate>Sat, 29 Aug 2026 17:09:57 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/fish-out-of-water/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Time Travel</title>
+				<link>http://localhost:1314/tags/time-travel/</link>
+				<pubDate>Sat, 29 Aug 2026 17:09:57 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/time-travel/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Wrong Place Wrong Time</title>
+				<link>http://localhost:1314/tags/wrong-place-wrong-time/</link>
+				<pubDate>Sat, 29 Aug 2026 17:09:57 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/wrong-place-wrong-time/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Ai</title>
 				<link>http://localhost:1314/tags/ai/</link>
@@ -55,13 +76,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Time Travel</title>
-				<link>http://localhost:1314/tags/time-travel/</link>
-				<pubDate>Wed, 26 Aug 2026 10:58:33 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/tags/time-travel/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Cold War</title>
 				<link>http://localhost:1314/tags/cold-war/</link>
 				<pubDate>Mon, 24 Aug 2026 10:50:35 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
@@ -76,7 +90,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>What If</title>
+				<title>What-If</title>
 				<link>http://localhost:1314/tags/what-if/</link>
 				<pubDate>Mon, 24 Aug 2026 10:50:35 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/what-if/</guid>
