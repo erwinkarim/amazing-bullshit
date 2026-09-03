@@ -4,9 +4,22 @@
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Tue, 01 Sep 2026 17:43:07 &#43;0800</lastBuildDate>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Thu, 03 Sep 2026 09:23:12 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Temporal Clash</title>
+    <link>http://localhost:1314/40-temporal-clash/</link>
+    <pubDate>Thu, 03 Sep 2026 09:23:12 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/40-temporal-clash/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/40-temporal-clash-cover.webp" referrerpolicy="no-referrer">
+            </div><p>The warehouse erupted into chaos.</p>
+<p>Steel clashed against steel as the heroes and villains danced their ancient choreography of destruction. Sparks flew like fractured stars. The air screamed with power.</p>
+<p>Kazuki stood at the precipice of victory, his blade glowing cerulean blue, when Vex emerged from the darkness—the temporal villain. They called him the Chrono Wraith. His palm already glowed with that sickly violet hue.</p>
+<p>&ldquo;See you in forever, kid,&rdquo; Vex grinned.</p>]]></description>
+</item>
+<item>
     <title>The Sentence</title>
     <link>http://localhost:1314/39-the-sentance/</link>
     <pubDate>Tue, 01 Sep 2026 17:43:07 &#43;0800</pubDate>
@@ -110,16 +123,6 @@ is yours to trace.</p>]]></description>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/posts/31-galactic-hegemony-cover.webp" referrerpolicy="no-referrer">
             </div><p>Emperor Valerius awakened to the gentle, rhythmic hum of a captive singularity suspended beneath his bedchamber. Five thousand years after humanity learned to fold the fabric of space like silk, physical scarcity had vanished from the universe. Entire stars were siphoned for minor energy grids; quantum matter-synthesizers rendered rare elements as common as dirt. Yet as Valerius stepped onto his balcony overlooking the capital-spire—a ring-world structure encircling three star systems—he knew the bitter truth of his age: <strong>resources were infinite, but human greed remained limitless.</strong></p>]]></description>
-</item>
-<item>
-    <title>The Efficiency Paradox</title>
-    <link>http://localhost:1314/30-efficiency-paradox/</link>
-    <pubDate>Wed, 19 Aug 2026 08:18:26 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/30-efficiency-paradox/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/30-efficiency-paradox-cover.webp" referrerpolicy="no-referrer">
-            </div><p>Dr. Marcus Chen had spent three years building the case, and now it sat compiled in a single folder on his laptop: California, if it seceded tomorrow, would be the second-richest nation on Earth, trailing only the United States itself. Not oil. Not tourism. Governance. Fifteen years ago, the state had folded artificial intelligence into the machinery of administration — permitting, budgeting, infrastructure routing, even judicial scheduling — and the results were undeniable. Wait times for permits had dropped from months to hours. The state budget, once a battlefield of pork and gridlock, balanced itself with surgical precision. Roads got built. Wildfires got predicted and starved of fuel before they could spread. It was, by every metric Marcus could measure, the most efficient government in human history.</p>]]></description>
 </item>
 </channel>
 </rss>
