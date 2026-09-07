@@ -4,9 +4,19 @@
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Thu, 03 Sep 2026 09:23:12 &#43;0800</lastBuildDate>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Sun, 06 Sep 2026 09:36:32 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Iblis on Vacation</title>
+    <link>http://localhost:1314/41-iblis-on-vacation/</link>
+    <pubDate>Sun, 06 Sep 2026 09:36:32 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/41-iblis-on-vacation/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/41-iblis-on-vacation-cover.webp" referrerpolicy="no-referrer">
+            </div><p>The low, rhythmic thrum of the cruise liner’s engines vibrated through the deck floorboards, but it did nothing to soothe the tremor in Arthur’s soul. A parish priest of over twenty-five years, he had spent two decades delivering eulogies, sitting by hospice beds, and attempting to explain the unexplainable to shattered parents. His congregation believed he was on sabbatical for rest, but in truth, he had fled. Standing alone near the stern of the upper deck, he stared into the vast, pitch-black Atlantic, feeling completely hollowed out by the sheer volume of human agony he had been forced to shepherd.</p>]]></description>
+</item>
+<item>
     <title>Temporal Clash</title>
     <link>http://localhost:1314/40-temporal-clash/</link>
     <pubDate>Thu, 03 Sep 2026 09:23:12 &#43;0800</pubDate>
@@ -113,16 +123,6 @@ scrap of corkboard to the wall — a tangle of string leading nowhere, evidence
 of a trail he couldn&rsquo;t follow. &ldquo;I know who was in this house tonight,&rdquo; he
 says, &ldquo;I just can&rsquo;t prove who left last.&rdquo; He hands you the thread. The rest
 is yours to trace.</p>]]></description>
-</item>
-<item>
-    <title>Galactic Hegemony</title>
-    <link>http://localhost:1314/31-galactic-hegemony/</link>
-    <pubDate>Fri, 21 Aug 2026 06:37:49 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/31-galactic-hegemony/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/31-galactic-hegemony-cover.webp" referrerpolicy="no-referrer">
-            </div><p>Emperor Valerius awakened to the gentle, rhythmic hum of a captive singularity suspended beneath his bedchamber. Five thousand years after humanity learned to fold the fabric of space like silk, physical scarcity had vanished from the universe. Entire stars were siphoned for minor energy grids; quantum matter-synthesizers rendered rare elements as common as dirt. Yet as Valerius stepped onto his balcony overlooking the capital-spire—a ring-world structure encircling three star systems—he knew the bitter truth of his age: <strong>resources were infinite, but human greed remained limitless.</strong></p>]]></description>
 </item>
 </channel>
 </rss>
