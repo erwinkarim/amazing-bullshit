@@ -16,21 +16,91 @@
 			<copyright>erwinkarim. 2026</copyright>
 		
 		
-			<lastBuildDate>Sat, 29 Aug 2026 17:09:57 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 06 Sep 2026 09:36:32 +0800</lastBuildDate>
 		
 			<atom:link href="http://localhost:1314/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Fish Out of Water</title>
-				<link>http://localhost:1314/tags/fish-out-of-water/</link>
-				<pubDate>Sat, 29 Aug 2026 17:09:57 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/tags/fish-out-of-water/</guid>
+				<title>Celestial Beings</title>
+				<link>http://localhost:1314/tags/celestial-beings/</link>
+				<pubDate>Sun, 06 Sep 2026 09:36:32 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/celestial-beings/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cosmic Beings</title>
+				<link>http://localhost:1314/tags/cosmic-beings/</link>
+				<pubDate>Sun, 06 Sep 2026 09:36:32 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/cosmic-beings/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Vacation Story</title>
+				<link>http://localhost:1314/tags/vacation-story/</link>
+				<pubDate>Sun, 06 Sep 2026 09:36:32 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/vacation-story/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Lessons Learn</title>
+				<link>http://localhost:1314/tags/lessons-learn/</link>
+				<pubDate>Thu, 03 Sep 2026 09:23:12 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/lessons-learn/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Time Travel</title>
 				<link>http://localhost:1314/tags/time-travel/</link>
-				<pubDate>Sat, 29 Aug 2026 17:09:57 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<pubDate>Thu, 03 Sep 2026 09:23:12 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/time-travel/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Why Supervillians Are Important</title>
+				<link>http://localhost:1314/tags/why-supervillians-are-important/</link>
+				<pubDate>Thu, 03 Sep 2026 09:23:12 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/why-supervillians-are-important/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Black Death</title>
+				<link>http://localhost:1314/tags/black-death/</link>
+				<pubDate>Tue, 01 Sep 2026 17:43:07 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/black-death/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sci-Fi</title>
+				<link>http://localhost:1314/tags/sci-fi/</link>
+				<pubDate>Tue, 01 Sep 2026 17:43:07 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/sci-fi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ai Drones</title>
+				<link>http://localhost:1314/tags/ai-drones/</link>
+				<pubDate>Tue, 01 Sep 2026 08:31:37 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/ai-drones/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Alternative Timeline</title>
+				<link>http://localhost:1314/tags/alternative-timeline/</link>
+				<pubDate>Tue, 01 Sep 2026 08:31:37 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/alternative-timeline/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sino vs Nihon</title>
+				<link>http://localhost:1314/tags/sino-vs-nihon/</link>
+				<pubDate>Tue, 01 Sep 2026 08:31:37 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/sino-vs-nihon/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Fish Out of Water</title>
+				<link>http://localhost:1314/tags/fish-out-of-water/</link>
+				<pubDate>Sat, 29 Aug 2026 17:09:57 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/fish-out-of-water/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -90,7 +160,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>What-If</title>
+				<title>What If</title>
 				<link>http://localhost:1314/tags/what-if/</link>
 				<pubDate>Mon, 24 Aug 2026 10:50:35 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/what-if/</guid>
@@ -143,13 +213,6 @@
 				<link>http://localhost:1314/tags/galactic-empire/</link>
 				<pubDate>Fri, 21 Aug 2026 06:37:49 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/galactic-empire/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Sci-Fi</title>
-				<link>http://localhost:1314/tags/sci-fi/</link>
-				<pubDate>Fri, 21 Aug 2026 06:37:49 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/tags/sci-fi/</guid>
 				<description></description>
 			</item>
 			<item>
