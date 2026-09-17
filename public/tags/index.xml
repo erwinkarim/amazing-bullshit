@@ -16,9 +16,37 @@
 			<copyright>erwinkarim. 2026</copyright>
 		
 		
-			<lastBuildDate>Sun, 06 Sep 2026 09:36:32 +0800</lastBuildDate>
+			<lastBuildDate>Mon, 14 Sep 2026 10:56:57 +0800</lastBuildDate>
 		
 			<atom:link href="http://localhost:1314/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Free Apps</title>
+				<link>http://localhost:1314/tags/free-apps/</link>
+				<pubDate>Mon, 14 Sep 2026 10:56:57 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/free-apps/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>You Are the Product</title>
+				<link>http://localhost:1314/tags/you-are-the-product/</link>
+				<pubDate>Mon, 14 Sep 2026 10:56:57 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/you-are-the-product/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Warfare</title>
+				<link>http://localhost:1314/tags/warfare/</link>
+				<pubDate>Sun, 13 Sep 2026 11:28:30 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/warfare/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>What&#39;s Happening</title>
+				<link>http://localhost:1314/tags/whats-happening/</link>
+				<pubDate>Sun, 13 Sep 2026 11:28:30 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/whats-happening/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Celestial Beings</title>
 				<link>http://localhost:1314/tags/celestial-beings/</link>
@@ -160,7 +188,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>What If</title>
+				<title>What-If</title>
 				<link>http://localhost:1314/tags/what-if/</link>
 				<pubDate>Mon, 24 Aug 2026 10:50:35 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/what-if/</guid>
