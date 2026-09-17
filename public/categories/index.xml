@@ -16,9 +16,16 @@
 			<copyright>erwinkarim. 2026</copyright>
 		
 		
-			<lastBuildDate>Mon, 14 Sep 2026 10:56:57 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 17 Sep 2026 09:39:05 +0800</lastBuildDate>
 		
 			<atom:link href="http://localhost:1314/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Real Enemy Is Us</title>
+				<link>http://localhost:1314/categories/the-real-enemy-is-us/</link>
+				<pubDate>Thu, 17 Sep 2026 09:39:05 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/the-real-enemy-is-us/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Free Apps</title>
 				<link>http://localhost:1314/categories/free-apps/</link>
@@ -171,6 +178,13 @@
 				<link>http://localhost:1314/categories/drama/</link>
 				<pubDate>Thu, 16 Jul 2026 16:36:05 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/categories/drama/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Human&#39;s Are Real Enemy</title>
+				<link>http://localhost:1314/categories/humans-are-real-enemy/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/humans-are-real-enemy/</guid>
 				<description></description>
 			</item>
 	</channel>

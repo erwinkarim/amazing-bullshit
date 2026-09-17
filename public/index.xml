@@ -4,9 +4,19 @@
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Mon, 14 Sep 2026 10:56:57 &#43;0800</lastBuildDate>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Thu, 17 Sep 2026 09:39:05 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Farmer&#39;s  Burden</title>
+    <link>http://localhost:1314/44-farmer-s-burden/</link>
+    <pubDate>Thu, 17 Sep 2026 09:39:05 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/44-farmer-s-burden/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/44-farmer%27s-burden-cover.webp" referrerpolicy="no-referrer">
+            </div><p>Six months after the world collapsed into teeth and rot, the silence felt heavier than the stench of decay. Brother Thomas and his small flock of surviving clergy had spent half a year wandering through ash and ruin before stumbling upon a genuine miracle: a sprawling, untouched farmstead as green and vibrant as Eden. The farmer, a tall, quiet man with eyes like polished obsidian, greeted them at the edge of the timber. His terms were simple enough. They could shelter in the dry comfort of his barn for as long as they wished, provided they respected his boundary and never crossed his threshold uninvited.</p>]]></description>
+</item>
+<item>
     <title>Field Data</title>
     <link>http://localhost:1314/43-field-data/</link>
     <pubDate>Mon, 14 Sep 2026 10:56:57 &#43;0800</pubDate>
@@ -108,16 +118,6 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/posts/35-the-test-cover.webp" referrerpolicy="no-referrer">
             </div><p>The workshop at the bend of the Tiber sounded like no other place in the Roman Empire. It did not ring with the chaotic, uneven beat of hammer on anvil, but with the rhythmic, clockwork thrum of water-driven cams and precision-turned gears. Outside, dozens of hopeful young men lined the dusty stone path—sons of senators, scholars, and wealthy merchants, all desperate to study under the enigmatic <strong>Architectus</strong>, the man who had single-handedly revolutionized construction, irrigation, and metallurgy across Italy.</p>]]></description>
-</item>
-<item>
-    <title>The Long Game</title>
-    <link>http://localhost:1314/34-the-long-game/</link>
-    <pubDate>Mon, 24 Aug 2026 10:50:35 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/34-the-long-game/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/34-the-long-game-cover.webp" referrerpolicy="no-referrer">
-            </div><p>The morning fog over the pines at <strong>Zavidovo</strong> was thick enough to swallow the birch trees whole. George Bush adjusted the collar of his woolen sweater, staring out the floor-to-ceiling window of the state dacha. Outside, the air was bitter cold, but inside, the modern Soviet retreat burned with quiet, prosperous warmth. This wasn&rsquo;t the decaying, bureaucratic empire his predecessors had anticipated decades ago. The Soviet Union in the winter of 1990 was modern, sleek, and dangerously confident—a market-socialist leviathan that had successfully retooled its central planning without surrendering an inch of its global reach.</p>]]></description>
 </item>
 </channel>
 </rss>
