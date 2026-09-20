@@ -16,168 +16,89 @@
 			<copyright>erwinkarim. 2026</copyright>
 		
 		
-			<lastBuildDate>Thu, 17 Sep 2026 09:39:05 +0800</lastBuildDate>
-		
 			<atom:link href="http://localhost:1314/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>The Real Enemy Is Us</title>
-				<link>http://localhost:1314/categories/the-real-enemy-is-us/</link>
-				<pubDate>Thu, 17 Sep 2026 09:39:05 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/categories/the-real-enemy-is-us/</guid>
+				<title>Ai Governance</title>
+				<link>http://localhost:1314/categories/ai-governance/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/ai-governance/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Free Apps</title>
-				<link>http://localhost:1314/categories/free-apps/</link>
-				<pubDate>Mon, 14 Sep 2026 10:56:57 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/categories/free-apps/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>War Journal</title>
-				<link>http://localhost:1314/categories/war-journal/</link>
-				<pubDate>Sun, 13 Sep 2026 11:28:30 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/categories/war-journal/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Vacation Stories</title>
-				<link>http://localhost:1314/categories/vacation-stories/</link>
-				<pubDate>Sun, 06 Sep 2026 09:36:32 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/categories/vacation-stories/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Time Travel</title>
-				<link>http://localhost:1314/categories/time-travel/</link>
-				<pubDate>Thu, 03 Sep 2026 09:23:12 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/categories/time-travel/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Sci-Fi</title>
-				<link>http://localhost:1314/categories/sci-fi/</link>
-				<pubDate>Tue, 01 Sep 2026 17:43:07 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/categories/sci-fi/</guid>
+				<title>Alternate Reality</title>
+				<link>http://localhost:1314/categories/alternate-reality/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/alternate-reality/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Alternative Timeline</title>
 				<link>http://localhost:1314/categories/alternative-timeline/</link>
-				<pubDate>Tue, 01 Sep 2026 08:31:37 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/categories/alternative-timeline/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Ai Governance</title>
-				<link>http://localhost:1314/categories/ai-governance/</link>
-				<pubDate>Fri, 28 Aug 2026 11:20:23 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/categories/ai-governance/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Who Is God Anyway?</title>
-				<link>http://localhost:1314/categories/who-is-god-anyway/</link>
-				<pubDate>Fri, 28 Aug 2026 11:20:23 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/categories/who-is-god-anyway/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Historical Fiction</title>
-				<link>http://localhost:1314/categories/historical-fiction/</link>
-				<pubDate>Mon, 24 Aug 2026 10:50:35 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/categories/historical-fiction/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Horror</title>
-				<link>http://localhost:1314/categories/horror/</link>
-				<pubDate>Sun, 23 Aug 2026 10:23:49 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/categories/horror/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Murder Mystery</title>
-				<link>http://localhost:1314/categories/murder-mystery/</link>
-				<pubDate>Fri, 21 Aug 2026 11:37:36 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/categories/murder-mystery/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Object From the Future</title>
-				<link>http://localhost:1314/categories/object-from-the-future/</link>
-				<pubDate>Mon, 17 Aug 2026 16:58:52 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/categories/object-from-the-future/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Free Will?</title>
-				<link>http://localhost:1314/categories/free-will/</link>
-				<pubDate>Sun, 16 Aug 2026 10:07:02 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/categories/free-will/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>What If</title>
-				<link>http://localhost:1314/categories/what-if/</link>
-				<pubDate>Thu, 13 Aug 2026 09:27:06 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/categories/what-if/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>War</title>
-				<link>http://localhost:1314/categories/war/</link>
-				<pubDate>Tue, 11 Aug 2026 14:27:58 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/categories/war/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Day in a Life</title>
-				<link>http://localhost:1314/categories/day-in-a-life/</link>
-				<pubDate>Sat, 08 Aug 2026 08:30:30 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/categories/day-in-a-life/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Cautionary Tale</title>
 				<link>http://localhost:1314/categories/cautionary-tale/</link>
-				<pubDate>Thu, 06 Aug 2026 10:40:01 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/categories/cautionary-tale/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Comedy</title>
 				<link>http://localhost:1314/categories/comedy/</link>
-				<pubDate>Fri, 31 Jul 2026 11:42:21 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/categories/comedy/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Alternate Reality</title>
-				<link>http://localhost:1314/categories/alternate-reality/</link>
-				<pubDate>Tue, 28 Jul 2026 17:46:45 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/categories/alternate-reality/</guid>
+				<title>Day in a Life</title>
+				<link>http://localhost:1314/categories/day-in-a-life/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/day-in-a-life/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Mystery</title>
-				<link>http://localhost:1314/categories/mystery/</link>
-				<pubDate>Sat, 25 Jul 2026 09:58:25 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/categories/mystery/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Millitary</title>
-				<link>http://localhost:1314/categories/millitary/</link>
-				<pubDate>Sun, 19 Jul 2026 09:27:08 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/categories/millitary/</guid>
+				<title>Dopplegangger</title>
+				<link>http://localhost:1314/categories/dopplegangger/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/dopplegangger/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Drama</title>
 				<link>http://localhost:1314/categories/drama/</link>
-				<pubDate>Thu, 16 Jul 2026 16:36:05 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/categories/drama/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Free Apps</title>
+				<link>http://localhost:1314/categories/free-apps/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/free-apps/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Free Will?</title>
+				<link>http://localhost:1314/categories/free-will/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/free-will/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Historical Fiction</title>
+				<link>http://localhost:1314/categories/historical-fiction/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/historical-fiction/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Horror</title>
+				<link>http://localhost:1314/categories/horror/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/horror/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -185,6 +106,90 @@
 				<link>http://localhost:1314/categories/humans-are-real-enemy/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/categories/humans-are-real-enemy/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Millitary</title>
+				<link>http://localhost:1314/categories/millitary/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/millitary/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Murder Mystery</title>
+				<link>http://localhost:1314/categories/murder-mystery/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/murder-mystery/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Mystery</title>
+				<link>http://localhost:1314/categories/mystery/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/mystery/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Object From the Future</title>
+				<link>http://localhost:1314/categories/object-from-the-future/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/object-from-the-future/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sci-Fi</title>
+				<link>http://localhost:1314/categories/sci-fi/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/sci-fi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The Real Enemy Is Us</title>
+				<link>http://localhost:1314/categories/the-real-enemy-is-us/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/the-real-enemy-is-us/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Time Travel</title>
+				<link>http://localhost:1314/categories/time-travel/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/time-travel/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Vacation Stories</title>
+				<link>http://localhost:1314/categories/vacation-stories/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/vacation-stories/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>War</title>
+				<link>http://localhost:1314/categories/war/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/war/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>War Journal</title>
+				<link>http://localhost:1314/categories/war-journal/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/war-journal/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>What If</title>
+				<link>http://localhost:1314/categories/what-if/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/what-if/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Who Is God Anyway?</title>
+				<link>http://localhost:1314/categories/who-is-god-anyway/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/categories/who-is-god-anyway/</guid>
 				<description></description>
 			</item>
 	</channel>
