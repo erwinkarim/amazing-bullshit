@@ -4,9 +4,19 @@
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Mon, 21 Sep 2026 18:00:10 &#43;0800</lastBuildDate>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Thu, 24 Sep 2026 16:11:21 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Templar Heist</title>
+    <link>http://localhost:1314/48-templar-heist/</link>
+    <pubDate>Thu, 24 Sep 2026 16:11:21 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/48-templar-heist/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/48-templar-heist-cover.webp" referrerpolicy="no-referrer">
+            </div><p>The midday sun hung over the Levant like an anvil, baking the cracked earth into fine white dust. Through the shimmer of the heat haze, a heavily guarded convoy rolled along a deserted trade road, bound for the coastal fortress at Acre. Iron-rimmed wheels groaned beneath the weight of three sturdy carriages, each packed with iron-bound chests of gold bullion being transferred from an inland Templar vault. Surrounding the cargo was a squad of twelve armored knights, their white surcoats bearing the crimson cross, swords glinting in the blinding glare.</p>]]></description>
+</item>
+<item>
     <title>Subject 207</title>
     <link>http://localhost:1314/47-subject-207/</link>
     <pubDate>Mon, 21 Sep 2026 18:00:10 &#43;0800</pubDate>
@@ -112,17 +122,6 @@
 <p>The darkness was absolute.</p>
 <p>When consciousness returned, it came like drowning in reverse—gasping, clawing back to awareness through layers of chemical fog. My eyes opened to blackness. Hands fumbled forward, meeting rough wood inches from my face. A shelf. I was in a closet.</p>
 <p>The temporal transit drug. They&rsquo;d warned me about this—that the jump would leave me disoriented, that I&rsquo;d wake confused. But they&rsquo;d also promised I&rsquo;d know where I was going. They&rsquo;d shown me the facility: white walls, containment chambers, somewhere they could study what they&rsquo;d need to study.</p>]]></description>
-</item>
-<item>
-    <title>Cold Peace</title>
-    <link>http://localhost:1314/38-cold-peace/</link>
-    <pubDate>Tue, 01 Sep 2026 08:31:37 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/38-cold-peace/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/38-cold-peace-cover.webp" referrerpolicy="no-referrer">
-            </div><p>High above the turquoise expanse of the East China Sea, the morning sun glinted off the sleek, radar-absorbent hull of the Mitsubishi F-3X <em>Shinryu</em>. Major Kenji Takahashi monitored the tactical feed integrated directly into his visor. Flanking his fighter were two autonomous <em>Raijin</em> wingman drones, their engines humming in perfect, AI-synchronized harmony—a testament to three decades of unhindered Japanese technological and financial dominance.</p>
-<p>&ldquo;Alpha Lead, this is Naha Tactical Grid,&rdquo; a controller&rsquo;s voice cut through the quantum-encrypted comms. &ldquo;Sensors detect four non-responsive tracks crossing the median line, heading vector zero-eight-zero toward Uotsuri Island. Signatures match PLA Air Force J-20 stealth fighters.&rdquo;</p>]]></description>
 </item>
 </channel>
 </rss>
