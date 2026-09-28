@@ -4,9 +4,21 @@
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Thu, 24 Sep 2026 16:11:21 &#43;0800</lastBuildDate>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Mon, 28 Sep 2026 10:38:54 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Camp Ramesses</title>
+    <link>http://localhost:1314/49-camp-ramesses/</link>
+    <pubDate>Mon, 28 Sep 2026 10:38:54 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/49-camp-ramesses/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/49-camp-ramesses-cover.webp" referrerpolicy="no-referrer">
+            </div><p><em>Mars, 2057</em></p>
+<p>The descent took seven minutes, and for every one of them, Commander Amara Okonkwo forgot to breathe.</p>
+<p>Below the lander <em>Perseverance II</em>, the north polar plains of Mars rolled out like a rust-colored ocean, streaked with the white of ancient ice. It was the year 2057, nearly ninety years after the first boots touched the Moon, and a decade after the lunar colony had grown from a handful of domes into a proper town. Humanity was finally about to stand on another world.</p>]]></description>
+</item>
+<item>
     <title>Templar Heist</title>
     <link>http://localhost:1314/48-templar-heist/</link>
     <pubDate>Thu, 24 Sep 2026 16:11:21 &#43;0800</pubDate>
@@ -109,19 +121,6 @@
 <p>Steel clashed against steel as the heroes and villains danced their ancient choreography of destruction. Sparks flew like fractured stars. The air screamed with power.</p>
 <p>Kazuki stood at the precipice of victory, his blade glowing cerulean blue, when Vex emerged from the darkness—the temporal villain. They called him the Chrono Wraith. His palm already glowed with that sickly violet hue.</p>
 <p>&ldquo;See you in forever, kid,&rdquo; Vex grinned.</p>]]></description>
-</item>
-<item>
-    <title>The Sentence</title>
-    <link>http://localhost:1314/39-the-sentance/</link>
-    <pubDate>Tue, 01 Sep 2026 17:43:07 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/39-the-sentance/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/39-the-sentence-cover.webp" referrerpolicy="no-referrer">
-            </div><h1 id="the-sentence">The Sentence</h1>
-<p>The darkness was absolute.</p>
-<p>When consciousness returned, it came like drowning in reverse—gasping, clawing back to awareness through layers of chemical fog. My eyes opened to blackness. Hands fumbled forward, meeting rough wood inches from my face. A shelf. I was in a closet.</p>
-<p>The temporal transit drug. They&rsquo;d warned me about this—that the jump would leave me disoriented, that I&rsquo;d wake confused. But they&rsquo;d also promised I&rsquo;d know where I was going. They&rsquo;d shown me the facility: white walls, containment chambers, somewhere they could study what they&rsquo;d need to study.</p>]]></description>
 </item>
 </channel>
 </rss>

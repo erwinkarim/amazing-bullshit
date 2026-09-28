@@ -16,9 +16,58 @@
 			<copyright>erwinkarim. 2026</copyright>
 		
 		
-			<lastBuildDate>Sun, 20 Sep 2026 11:16:14 +0800</lastBuildDate>
+			<lastBuildDate>Thu, 24 Sep 2026 16:11:21 +0800</lastBuildDate>
 		
 			<atom:link href="http://localhost:1314/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Banking</title>
+				<link>http://localhost:1314/tags/banking/</link>
+				<pubDate>Thu, 24 Sep 2026 16:11:21 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/banking/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Gold</title>
+				<link>http://localhost:1314/tags/gold/</link>
+				<pubDate>Thu, 24 Sep 2026 16:11:21 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/gold/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Heist</title>
+				<link>http://localhost:1314/tags/heist/</link>
+				<pubDate>Thu, 24 Sep 2026 16:11:21 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/heist/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Knights Templar</title>
+				<link>http://localhost:1314/tags/knights-templar/</link>
+				<pubDate>Thu, 24 Sep 2026 16:11:21 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/knights-templar/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Time Travel</title>
+				<link>http://localhost:1314/tags/time-travel/</link>
+				<pubDate>Thu, 24 Sep 2026 16:11:21 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/time-travel/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Origin Story</title>
+				<link>http://localhost:1314/tags/origin-story/</link>
+				<pubDate>Mon, 21 Sep 2026 18:00:10 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/origin-story/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Vampire</title>
+				<link>http://localhost:1314/tags/vampire/</link>
+				<pubDate>Mon, 21 Sep 2026 18:00:10 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/vampire/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Free Will vs Predestination</title>
 				<link>http://localhost:1314/tags/free-will-vs-predestination/</link>
@@ -153,13 +202,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Time Travel</title>
-				<link>http://localhost:1314/tags/time-travel/</link>
-				<pubDate>Thu, 03 Sep 2026 09:23:12 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/tags/time-travel/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Why Supervillians Are Important</title>
 				<link>http://localhost:1314/tags/why-supervillians-are-important/</link>
 				<pubDate>Thu, 03 Sep 2026 09:23:12 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
@@ -265,7 +307,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>What-If</title>
+				<title>What If</title>
 				<link>http://localhost:1314/tags/what-if/</link>
 				<pubDate>Mon, 24 Aug 2026 10:50:35 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/what-if/</guid>
