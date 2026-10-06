@@ -4,9 +4,21 @@
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Wed, 30 Sep 2026 10:24:46 &#43;0800</lastBuildDate>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Tue, 06 Oct 2026 10:25:54 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Twenty Years in Four Minutes</title>
+    <link>http://localhost:1314/52-twenty-years-in-four-minutes/</link>
+    <pubDate>Tue, 06 Oct 2026 10:25:54 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/52-twenty-years-in-four-minutes/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/52-twenty-years-in-four-minutes-cover.webp" referrerpolicy="no-referrer">
+            </div><p>The fluorescent light overhead hummed with a low, agonizing drone. Between them sat a polished mahogany table, split down the middle by a crisp stack of white legal paper.</p>
+<p>Arthur stared at the black ink of his own signature, still wet on the line marked <em>Petitioner</em>.</p>
+<p>Across from him, Elena sat with her hands clasped tightly in her lap. Her shoulders were tense, framed by the quiet, sterile formality of the lawyer’s office. Twenty years. How had two decades of living, breathing, shared existence boiled down to a man in a charcoal suit pointing a Parker pen at a dotted line?</p>]]></description>
+</item>
+<item>
     <title>The Tower Where 600 Souls Moved as One</title>
     <link>http://localhost:1314/51-tower-where-600-souls-moved-as-one/</link>
     <pubDate>Wed, 30 Sep 2026 10:24:46 &#43;0800</pubDate>
@@ -115,17 +127,6 @@
             </div><p>Milo held his phone up to a maple tree and grinned as a shimmering fox made of blue light blinked into existence on his screen, sitting in the crook of a branch that, in the real world, held nothing at all.</p>
 <p><em>Glimmer captured: Ember Fox. Collection: 214/300.</em></p>
 <p>He&rsquo;d been chasing this one for three days. The app had teased it near the reservoir, then the fountain, then finally here, on the gravel path that cut through Hollis Park. He snapped the photo, watched the little creature dissolve into a burst of pixel-confetti, and felt the small, stupid, wonderful joy of a thing checked off a list.</p>]]></description>
-</item>
-<item>
-    <title>Cost of Infinite Power</title>
-    <link>http://localhost:1314/42-cost-of-infinite-power/</link>
-    <pubDate>Sun, 13 Sep 2026 11:28:30 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/42-cost-of-infinite-power/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/42-cost-of-infinite-power-cover.webp" referrerpolicy="no-referrer">
-            </div><p>Petty Officer Second Class Marcus Ibe stood at the rail as the destroyer came about, its wake curling white against water the color of gunmetal. Behind them, the strait narrowed toward the coast of Yemen, a smudge of brown hills he&rsquo;d stared at for six months without ever setting foot on.</p>
-<p>The order had come down at 0400: reposition east, out of range, hold formation with the carrier group. Not a retreat, the XO had said. A repositioning. Marcus had written the word in his notebook and circled it twice, like that might make it mean something else.</p>]]></description>
 </item>
 </channel>
 </rss>
