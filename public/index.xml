@@ -4,9 +4,21 @@
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Tue, 06 Oct 2026 10:25:54 &#43;0800</lastBuildDate>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Sat, 10 Oct 2026 17:12:47 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>The Infinite Trap</title>
+    <link>http://localhost:1314/53-infinite-trap/</link>
+    <pubDate>Sat, 10 Oct 2026 17:12:47 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/53-infinite-trap/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/53-the-infinite-trap-cover.webp" referrerpolicy="no-referrer">
+            </div><p>For thirty-four years, Dr. Julian Ross lived in the gray glow of vacuum tubes, particle counters, and laser arrays. His colleagues dismissed him as a ghost haunting the sub-basement of the university physics building, but Julian knew the truth: spatial displacement was possible.</p>
+<p>And on a cold rainy Tuesday at 3:14 AM, he proved it.</p>
+<p>The primary test was simple: send a silver pocket watch across a ten-meter void between two containment rings. Julian initiated the sequence, the air hummed with ozone, and the watch vanished. But it didn’t appear on the receiving pad ten meters away. Instead, it clattered onto his desk—right next to a mug of coffee he had finished two hours earlier.</p>]]></description>
+</item>
+<item>
     <title>Twenty Years in Four Minutes</title>
     <link>http://localhost:1314/52-twenty-years-in-four-minutes/</link>
     <pubDate>Tue, 06 Oct 2026 10:25:54 &#43;0800</pubDate>
@@ -115,18 +127,6 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/posts/44-farmer%27s-burden-cover.webp" referrerpolicy="no-referrer">
             </div><p>Six months after the world collapsed into teeth and rot, the silence felt heavier than the stench of decay. Brother Thomas and his small flock of surviving clergy had spent half a year wandering through ash and ruin before stumbling upon a genuine miracle: a sprawling, untouched farmstead as green and vibrant as Eden. The farmer, a tall, quiet man with eyes like polished obsidian, greeted them at the edge of the timber. His terms were simple enough. They could shelter in the dry comfort of his barn for as long as they wished, provided they respected his boundary and never crossed his threshold uninvited.</p>]]></description>
-</item>
-<item>
-    <title>Field Data</title>
-    <link>http://localhost:1314/43-field-data/</link>
-    <pubDate>Mon, 14 Sep 2026 10:56:57 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/43-field-data/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/43-field-data-cover.webp" referrerpolicy="no-referrer">
-            </div><p>Milo held his phone up to a maple tree and grinned as a shimmering fox made of blue light blinked into existence on his screen, sitting in the crook of a branch that, in the real world, held nothing at all.</p>
-<p><em>Glimmer captured: Ember Fox. Collection: 214/300.</em></p>
-<p>He&rsquo;d been chasing this one for three days. The app had teased it near the reservoir, then the fountain, then finally here, on the gravel path that cut through Hollis Park. He snapped the photo, watched the little creature dissolve into a burst of pixel-confetti, and felt the small, stupid, wonderful joy of a thing checked off a list.</p>]]></description>
 </item>
 </channel>
 </rss>
