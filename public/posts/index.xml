@@ -4,7 +4,18 @@
         <link>http://localhost:1314/posts/</link>
         <description>All Posts | The Amazing Bullshit</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Sat, 10 Oct 2026 17:12:47 &#43;0800</lastBuildDate><atom:link href="http://localhost:1314/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Fri, 16 Oct 2026 10:48:58 &#43;0800</lastBuildDate><atom:link href="http://localhost:1314/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Tuesday&#39;s Eggs</title>
+    <link>http://localhost:1314/54-tuesdays-eggs/</link>
+    <pubDate>Fri, 16 Oct 2026 10:48:58 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/54-tuesdays-eggs/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/54-tuesdays-eggs-cover.webp" referrerpolicy="no-referrer">
+            </div><p>The ambient glow of the kitchen clock read 6:45 AM, casting a soft amber light across the quartz island of Leo’s two-bedroom apartment on 88th and York. Outside, the East River was a quiet, gray slate, dusted with the first pale streaks of a Manhattan autumn sunrise.</p>
+<p>Leo slid a slice of sourdough into the toaster and turned on the espresso machine. The steady, rhythmic hiss of steam filled the quiet kitchen.</p>]]></description>
+</item>
+<item>
     <title>The Infinite Trap</title>
     <link>http://localhost:1314/53-infinite-trap/</link>
     <pubDate>Sat, 10 Oct 2026 17:12:47 &#43;0800</pubDate>
@@ -115,16 +126,6 @@
             </div><p>The first one arrived on a Tuesday. Subject line: <em>Re: Sunday long run — bring the gazebo poles.</em></p>
 <p>I don&rsquo;t run. I have never in my life owned a gazebo. I marked it as spam and forgot about it.</p>
 <p>Four more came that week. Then a photograph: nine people in reflective vests standing in a car park under a sky the colour of wet cement, and underneath it, one line.</p>]]></description>
-</item>
-<item>
-    <title>Farmer&#39;s  Burden</title>
-    <link>http://localhost:1314/44-farmer-s-burden/</link>
-    <pubDate>Thu, 17 Sep 2026 09:39:05 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/44-farmer-s-burden/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/44-farmer%27s-burden-cover.webp" referrerpolicy="no-referrer">
-            </div><p>Six months after the world collapsed into teeth and rot, the silence felt heavier than the stench of decay. Brother Thomas and his small flock of surviving clergy had spent half a year wandering through ash and ruin before stumbling upon a genuine miracle: a sprawling, untouched farmstead as green and vibrant as Eden. The farmer, a tall, quiet man with eyes like polished obsidian, greeted them at the edge of the timber. His terms were simple enough. They could shelter in the dry comfort of his barn for as long as they wished, provided they respected his boundary and never crossed his threshold uninvited.</p>]]></description>
 </item>
 </channel>
 </rss>
