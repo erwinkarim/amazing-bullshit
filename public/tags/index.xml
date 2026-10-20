@@ -16,9 +16,58 @@
 			<copyright>erwinkarim. 2026</copyright>
 		
 		
-			<lastBuildDate>Wed, 30 Sep 2026 10:24:46 +0800</lastBuildDate>
+			<lastBuildDate>Sat, 10 Oct 2026 17:12:47 +0800</lastBuildDate>
 		
 			<atom:link href="http://localhost:1314/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Multiverse</title>
+				<link>http://localhost:1314/tags/multiverse/</link>
+				<pubDate>Sat, 10 Oct 2026 17:12:47 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/multiverse/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Teleportation</title>
+				<link>http://localhost:1314/tags/teleportation/</link>
+				<pubDate>Sat, 10 Oct 2026 17:12:47 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/teleportation/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Time Travel</title>
+				<link>http://localhost:1314/tags/time-travel/</link>
+				<pubDate>Sat, 10 Oct 2026 17:12:47 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/time-travel/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Trapped</title>
+				<link>http://localhost:1314/tags/trapped/</link>
+				<pubDate>Sat, 10 Oct 2026 17:12:47 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/trapped/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dreaming</title>
+				<link>http://localhost:1314/tags/dreaming/</link>
+				<pubDate>Tue, 06 Oct 2026 10:25:54 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/dreaming/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Fast Life</title>
+				<link>http://localhost:1314/tags/fast-life/</link>
+				<pubDate>Tue, 06 Oct 2026 10:25:54 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/fast-life/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Virtual Reality</title>
+				<link>http://localhost:1314/tags/virtual-reality/</link>
+				<pubDate>Tue, 06 Oct 2026 10:25:54 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
+				<guid>http://localhost:1314/tags/virtual-reality/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Architecture</title>
 				<link>http://localhost:1314/tags/architecture/</link>
@@ -94,13 +143,6 @@
 				<link>http://localhost:1314/tags/knights-templar/</link>
 				<pubDate>Thu, 24 Sep 2026 16:11:21 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
 				<guid>http://localhost:1314/tags/knights-templar/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Time-Travel</title>
-				<link>http://localhost:1314/tags/time-travel/</link>
-				<pubDate>Thu, 24 Sep 2026 16:11:21 +0800</pubDate><author>techjourneyman@gmail.com (techjourneyman)</author>
-				<guid>http://localhost:1314/tags/time-travel/</guid>
 				<description></description>
 			</item>
 			<item>
