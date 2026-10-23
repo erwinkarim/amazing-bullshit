@@ -4,7 +4,18 @@
         <link>http://localhost:1314/posts/</link>
         <description>All Posts | The Amazing Bullshit</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Tue, 20 Oct 2026 11:43:52 &#43;0800</lastBuildDate><atom:link href="http://localhost:1314/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Fri, 23 Oct 2026 11:36:53 &#43;0800</lastBuildDate><atom:link href="http://localhost:1314/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>The Echoes Below</title>
+    <link>http://localhost:1314/56-echoes-below/</link>
+    <pubDate>Fri, 23 Oct 2026 11:36:53 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/56-echoes-below/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/56-echoes-below-cover.webp" referrerpolicy="no-referrer">
+            </div><p>The year was 2007. The Iraq troop surge was in full effect across the Al Anbar province, but forty miles south of Al-Qa&rsquo;im, near the ancient borders of Mesopotamia, there was no war—only endless, shifting dust.</p>
+<p>It was a moonless night, the desert swallowed by a pitch black so absolute that even night-vision goggles felt like squinting through murky green phosphor. A Black Hawk hovered meters above the dunes, its rotors whipping up a blinded tempest as four operators from the Army’s 1st Special Forces Operational Detachment-Delta—led by Master Sergeant Thomas &ldquo;Vance&rdquo; Miller—fast-roped onto the hardpan.</p>]]></description>
+</item>
+<item>
     <title>The Vaelari Ultimatum</title>
     <link>http://localhost:1314/55-vaelari-ultimatum/</link>
     <pubDate>Tue, 20 Oct 2026 11:43:52 &#43;0800</pubDate>
@@ -112,20 +123,6 @@
             </div><h2 id="sublevel-four">Sublevel Four</h2>
 <p>Dr. Elias Verhoeven had not seen the sun in eleven days, and he had stopped noticing. Down on Sublevel Four of the Halcyon Institute, the only light that mattered was the pale blue glow of the incubation chamber and the thin green line of a heartbeat on the monitor.</p>
 <p>Eight years. Two hundred and six trials. He kept every name in his head. Marcus, whose heart simply stopped. Ines, whose muscles tore themselves from the bone. Some volunteers had come for the money. Others had come for the promise: a human being with no ceiling. Strength, speed, intellect, perception, every one at its maximum, all at once.</p>]]></description>
-</item>
-<item>
-    <title>The Defence</title>
-    <link>http://localhost:1314/46-the-defence/</link>
-    <pubDate>Sun, 20 Sep 2026 11:16:14 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/46-the-defence/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/46-the-defense-cover.webp" referrerpolicy="no-referrer">
-            </div><p>There was no courtroom.</p>
-<p>He had expected scales. A bridge. Fire somewhere off to the left. There was only a floor that was not a floor, a light with no source, and the sudden, total knowledge that he was known.</p>
-<p>He tried to speak. His mouth would not open.</p>
-<p>So his hands spoke instead.</p>
-<p>His right hand went first, in his own voice, and it talked about the money — the small amounts, then the larger ones, then the signature that was not his. His feet named the doors they had carried him through. His skin testified last, and that was the worst of it, because skin remembers what the mind agrees to forget.</p>]]></description>
 </item>
 </channel>
 </rss>
