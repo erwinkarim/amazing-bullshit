@@ -4,9 +4,21 @@
         <link>http://localhost:1314/</link>
         <description>2 minutes of bullshit. 2 minutes of your life wasted. 1 new content everyday.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Fri, 23 Oct 2026 11:36:53 &#43;0800</lastBuildDate>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Sun, 25 Oct 2026 11:54:19 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>The Letter of the Law</title>
+    <link>http://localhost:1314/57-letter-of-the-law/</link>
+    <pubDate>Sun, 25 Oct 2026 11:54:19 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/57-letter-of-the-law/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/57-letter-of-the-law-cover.webp" referrerpolicy="no-referrer">
+            </div><p>The Hawthorne Room had been a lobbyist&rsquo;s bar for sixty years, and it still smelled like it: old leather, lemon oil, and favors that never made it into the minutes.</p>
+<p>Marcus Hale took the corner stool, the one with a view of both the door and the window, and ordered a vodka tonic. He watched the ice settle.</p>
+<p>Four years ago, it had been a clever idea. Everyone agreed on the problem: half the country stayed home every November. So Congress made the default vote, the one cast by not voting, go to the Administrator, an executive intelligence that did one thing, which was execute the law as written. No agenda, no executive orders, no favorites. Americans, offered a choice between showing up and handing the White House to a machine, would surely show up.</p>]]></description>
+</item>
+<item>
     <title>The Echoes Below</title>
     <link>http://localhost:1314/56-echoes-below/</link>
     <pubDate>Fri, 23 Oct 2026 11:36:53 &#43;0800</pubDate>
@@ -113,18 +125,6 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/posts/48-templar-heist-cover.webp" referrerpolicy="no-referrer">
             </div><p>The midday sun hung over the Levant like an anvil, baking the cracked earth into fine white dust. Through the shimmer of the heat haze, a heavily guarded convoy rolled along a deserted trade road, bound for the coastal fortress at Acre. Iron-rimmed wheels groaned beneath the weight of three sturdy carriages, each packed with iron-bound chests of gold bullion being transferred from an inland Templar vault. Surrounding the cargo was a squad of twelve armored knights, their white surcoats bearing the crimson cross, swords glinting in the blinding glare.</p>]]></description>
-</item>
-<item>
-    <title>Subject 207</title>
-    <link>http://localhost:1314/47-subject-207/</link>
-    <pubDate>Mon, 21 Sep 2026 18:00:10 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/47-subject-207/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/47-subject-207-cover.webp" referrerpolicy="no-referrer">
-            </div><h2 id="sublevel-four">Sublevel Four</h2>
-<p>Dr. Elias Verhoeven had not seen the sun in eleven days, and he had stopped noticing. Down on Sublevel Four of the Halcyon Institute, the only light that mattered was the pale blue glow of the incubation chamber and the thin green line of a heartbeat on the monitor.</p>
-<p>Eight years. Two hundred and six trials. He kept every name in his head. Marcus, whose heart simply stopped. Ines, whose muscles tore themselves from the bone. Some volunteers had come for the money. Others had come for the promise: a human being with no ceiling. Strength, speed, intellect, perception, every one at its maximum, all at once.</p>]]></description>
 </item>
 </channel>
 </rss>
