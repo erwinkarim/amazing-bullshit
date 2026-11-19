@@ -4,7 +4,21 @@
         <link>http://localhost:1314/posts/</link>
         <description>All Posts | The Amazing Bullshit</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Sat, 07 Nov 2026 08:59:23 &#43;0800</lastBuildDate><atom:link href="http://localhost:1314/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Thu, 19 Nov 2026 09:46:56 &#43;0800</lastBuildDate><atom:link href="http://localhost:1314/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>From Dust to Core</title>
+    <link>http://localhost:1314/60-from-dust-to-core/</link>
+    <pubDate>Thu, 19 Nov 2026 09:46:56 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/60-from-dust-to-core/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/60-from-dust-to-core-cover.webp" referrerpolicy="no-referrer">
+            </div><p><em>Year 12,026 of the Common Reckoning. The Terran Galactic Empire.</em></p>
+<hr>
+<h2 id="i-karsk-9">I. Karsk-9</h2>
+<p>On Karsk-9, water was counted the way other worlds counted money.</p>
+<p>Mira Vael knew exactly how many cups her family drank each day, because she was the one who wrote it on the kitchen wall in chalk. Her parents were harvest-farmers for the Empire, which meant they coaxed a hardy, grey-green grain called <em>sorrel-wheat</em> out of rust-colored soil, loaded it onto freighters, and never once tasted it. The grain fed fleets. The fleets fed the Empire. Nobody on the fleets knew Karsk-9&rsquo;s name.</p>]]></description>
+</item>
+<item>
     <title>Observatory Chronicles: Sol 3</title>
     <link>http://localhost:1314/58-observatory-chronicles-sol-3/</link>
     <pubDate>Sat, 07 Nov 2026 08:59:23 &#43;0800</pubDate>
@@ -118,18 +132,6 @@
             </div><p>The <em>Patient Wren</em> had surveyed for eleven turns when it found the world every settler in the Reach dreams of.</p>
 <p>Dessa Oru, the youngest reader on the team, kept the scans open on her wrist long after she should have closed them. Seventy percent water. Moving plates. A star that had not flickered in four billion years.</p>
 <p>&ldquo;Perfect,&rdquo; said Reckoner Varga, leaning over Dessa&rsquo;s shoulder. &ldquo;Water, warmth, a good heavy moon to keep the seasons steady. If you sat down to design a world for living things, you&rsquo;d draw this one.&rdquo;</p>]]></description>
-</item>
-<item>
-    <title>Camp Ramesses</title>
-    <link>http://localhost:1314/49-camp-ramesses/</link>
-    <pubDate>Mon, 28 Sep 2026 10:38:54 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/49-camp-ramesses/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/49-camp-ramesses-cover.webp" referrerpolicy="no-referrer">
-            </div><p><em>Mars, 2057</em></p>
-<p>The descent took seven minutes, and for every one of them, Commander Amara Okonkwo forgot to breathe.</p>
-<p>Below the lander <em>Perseverance II</em>, the north polar plains of Mars rolled out like a rust-colored ocean, streaked with the white of ancient ice. It was the year 2057, nearly ninety years after the first boots touched the Moon, and a decade after the lunar colony had grown from a handful of domes into a proper town. Humanity was finally about to stand on another world.</p>]]></description>
 </item>
 </channel>
 </rss>
