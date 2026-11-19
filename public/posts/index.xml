@@ -4,7 +4,24 @@
         <link>http://localhost:1314/posts/</link>
         <description>All Posts | The Amazing Bullshit</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>techjourneyman@gmail.com (techjourneyman)</managingEditor>
-            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Sun, 25 Oct 2026 11:54:19 &#43;0800</lastBuildDate><atom:link href="http://localhost:1314/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>techjourneyman@gmail.com (techjourneyman)</webMaster><copyright>erwinkarim. 2026</copyright><lastBuildDate>Sat, 07 Nov 2026 08:59:23 &#43;0800</lastBuildDate><atom:link href="http://localhost:1314/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Observatory Chronicles: Sol 3</title>
+    <link>http://localhost:1314/58-observatory-chronicles-sol-3/</link>
+    <pubDate>Sat, 07 Nov 2026 08:59:23 &#43;0800</pubDate>
+    <author>techjourneyman@gmail.com (techjourneyman)</author>
+    <guid>http://localhost:1314/58-observatory-chronicles-sol-3/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/posts/58-observatory-chronicles-sol-3-cover.webp" referrerpolicy="no-referrer">
+            </div><p><strong>Log Date:</strong> Earth Cycle August 1945</p>
+<p><strong>Observation Post:</strong> Sub-orbital Vector Alpha-7</p>
+<p><strong>Subject Planet:</strong> Sol-3 (“Earth”)</p>
+<p><strong>Observer:</strong> Vael, Senior Science Officer</p>
+<hr>
+<h3 id="phase-i-epochal-comparisons--societal-analysis">Phase I: Epochal Comparisons &amp; Societal Analysis</h3>
+<p>Observer Vael leaned back into the neural harness of the observation vessel, three sets of eyelids blinking slowly as high-resolution optical arrays focused on the spinning blue-and-green marble below.</p>
+<p>Vael pulled up the archival files from Sol-3’s historical registry. The vessel’s records stretched back millennia, but the entry from 1,000 local cycles ago was virtually indistinguishable from the ones preceding it—simple agriculture, basic metallurgy, localized tribal skirmishes, and slow, generational stagnation. For nearly a thousand years, nothing of true cosmic note had occurred.</p>]]></description>
+</item>
+<item>
     <title>The Letter of the Law</title>
     <link>http://localhost:1314/57-letter-of-the-law/</link>
     <pubDate>Sun, 25 Oct 2026 11:54:19 &#43;0800</pubDate>
@@ -113,16 +130,6 @@
             </div><p><em>Mars, 2057</em></p>
 <p>The descent took seven minutes, and for every one of them, Commander Amara Okonkwo forgot to breathe.</p>
 <p>Below the lander <em>Perseverance II</em>, the north polar plains of Mars rolled out like a rust-colored ocean, streaked with the white of ancient ice. It was the year 2057, nearly ninety years after the first boots touched the Moon, and a decade after the lunar colony had grown from a handful of domes into a proper town. Humanity was finally about to stand on another world.</p>]]></description>
-</item>
-<item>
-    <title>Templar Heist</title>
-    <link>http://localhost:1314/48-templar-heist/</link>
-    <pubDate>Thu, 24 Sep 2026 16:11:21 &#43;0800</pubDate>
-    <author>techjourneyman@gmail.com (techjourneyman)</author>
-    <guid>http://localhost:1314/48-templar-heist/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/posts/48-templar-heist-cover.webp" referrerpolicy="no-referrer">
-            </div><p>The midday sun hung over the Levant like an anvil, baking the cracked earth into fine white dust. Through the shimmer of the heat haze, a heavily guarded convoy rolled along a deserted trade road, bound for the coastal fortress at Acre. Iron-rimmed wheels groaned beneath the weight of three sturdy carriages, each packed with iron-bound chests of gold bullion being transferred from an inland Templar vault. Surrounding the cargo was a squad of twelve armored knights, their white surcoats bearing the crimson cross, swords glinting in the blinding glare.</p>]]></description>
 </item>
 </channel>
 </rss>
